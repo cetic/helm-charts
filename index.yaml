@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pgadmin:
+  - appVersion: 4.7.0
+    created: 2019-06-03T08:33:25.109075018Z
+    description: pgAdmin is a web based administration tool for the PostgreSQL database.
+    digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
+    home: https://www.pgadmin.org/
+    icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
+    keywords:
+    - pgadmin
+    - postgres
+    - database
+    - sql
+    maintainers:
+    - name: alexnuttinck
+    name: pgadmin
+    urls:
+    - pgadmin/pgadmin-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-03T08:33:25.108558328Z
