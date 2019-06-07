@@ -9,4 +9,4 @@ helm repo update
 
 ### License
 
-[Apache License 2.0](/LICENSE.md)
+[Apache License 2.0](/LICENSE)
