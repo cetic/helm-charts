@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   nifi:
   - appVersion: 1.9.2
-    created: 2019-06-18T14:40:19.689641624Z
+    created: 2019-06-18T14:42:06.405143575Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 2a7c23a24030fa9d8a7905e9e3aae0d973113066eab079b769f1cf2e3313249a
@@ -20,7 +20,7 @@ entries:
     version: 0.1.0
   pgadmin:
   - appVersion: 4.8.0
-    created: 2019-06-18T14:40:19.690746607Z
+    created: 2019-06-18T14:42:06.406252027Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -37,7 +37,7 @@ entries:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
   - appVersion: 4.7.0
-    created: 2019-06-18T14:40:19.690089681Z
+    created: 2019-06-18T14:42:06.405583951Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -53,4 +53,4 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-18T14:40:19.687617973Z
+generated: 2019-06-18T14:42:06.403125559Z
