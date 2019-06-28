@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   nifi:
   - appVersion: 1.9.2
-    created: 2019-06-24T10:11:40.32930163Z
+    created: 2019-06-28T14:14:36.040479357Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
@@ -20,7 +20,7 @@ entries:
     version: 0.1.0
   pgadmin:
   - appVersion: 4.8.0
-    created: 2019-06-24T10:11:40.332441953Z
+    created: 2019-06-28T14:14:36.042294584Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -37,7 +37,7 @@ entries:
     - pgadmin/pgadmin-0.1.2.tgz
     version: 0.1.2
   - appVersion: 4.8.0
-    created: 2019-06-24T10:11:40.331290961Z
+    created: 2019-06-28T14:14:36.041633695Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -54,7 +54,7 @@ entries:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
   - appVersion: 4.7.0
-    created: 2019-06-24T10:11:40.330133201Z
+    created: 2019-06-28T14:14:36.040926205Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -70,4 +70,22 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-24T10:11:40.326257413Z
+  phpLDAPadmin:
+  - appVersion: 0.7.1
+    created: 2019-06-28T14:14:36.042819702Z
+    description: Web-based LDAP browser to manage your LDAP server
+    digest: 2efc2a4d25ec5f0d0a3fc6a2554cf8de037faed6632a98fb1c25cb7a897b7b7e
+    home: http://phpldapadmin.sourceforge.net
+    icon: http://phpldapadmin.sourceforge.net/wiki/images/d/d4/Logo.jpg
+    keywords:
+    - phpldapadmin
+    - openldap
+    - userrights
+    maintainers:
+    - name: alexnuttinck
+    - name: AyadiAmen
+    name: phpLDAPadmin
+    urls:
+    - phpLDAPadmin/phpLDAPadmin-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-28T14:14:36.038597723Z
