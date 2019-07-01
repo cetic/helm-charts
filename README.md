@@ -23,7 +23,18 @@ helm repo update
   ```bash
   helm install --name your-release cetic/nifi
   ```
+* [phpLDAPadmin](https://github.com/cetic/helm-phpLDAPadmin)
 
+  ```bash
+  helm install --name your-release cetic/phpLDAPadmin
+  ```
+
+* [fadi](https://github.com/cetic/fadi)
+
+  ```bash
+  helm install --name your-release cetic/fadi
+  ```  
+  
 ### License
 
 [Apache License 2.0](/LICENSE)
