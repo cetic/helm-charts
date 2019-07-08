@@ -1,8 +1,28 @@
 apiVersion: v1
 entries:
   fadi:
+  - appVersion: 0.1.1
+    created: "2019-07-08T08:40:58.625248684Z"
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
+    digest: db7a4ea4f20c370b93e8ef5255728f6d21b2df9380fba901c0bbd7aa8654a6c5
+    home: https://github.com/cetic/fadi
+    icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
+    keywords:
+    - fadi
+    - bigdata
+    - nifi
+    - spark
+    - grafana
+    maintainers:
+    - name: alexnuttinck
+    - name: banzo
+    name: fadi
+    urls:
+    - fadi/fadi-0.1.1.tgz
+    version: 0.1.1
   - appVersion: 0.1.0
-    created: "2019-07-03T09:25:27.444108519Z"
+    created: "2019-07-08T08:40:58.618136129Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 924aa2832e37c47d6ab16d5338bfcba24b0dd4736f0c476bd7bbf751522641ea
@@ -23,7 +43,7 @@ entries:
     version: 0.1.0
   nifi:
   - appVersion: 1.9.2
-    created: "2019-07-03T09:25:27.44583748Z"
+    created: "2019-07-08T08:40:58.626760382Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
@@ -41,7 +61,7 @@ entries:
     version: 0.1.0
   pgadmin:
   - appVersion: 4.8.0
-    created: "2019-07-03T09:25:27.44757662Z"
+    created: "2019-07-08T08:40:58.628335739Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -58,7 +78,7 @@ entries:
     - pgadmin/pgadmin-0.1.2.tgz
     version: 0.1.2
   - appVersion: 4.8.0
-    created: "2019-07-03T09:25:27.446936521Z"
+    created: "2019-07-08T08:40:58.627753336Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -75,7 +95,7 @@ entries:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
   - appVersion: 4.7.0
-    created: "2019-07-03T09:25:27.446271483Z"
+    created: "2019-07-08T08:40:58.627152549Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -93,7 +113,7 @@ entries:
     version: 0.1.0
   phpLDAPadmin:
   - appVersion: 0.7.1
-    created: "2019-07-03T09:25:27.448661813Z"
+    created: "2019-07-08T08:40:58.628818954Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: 2efc2a4d25ec5f0d0a3fc6a2554cf8de037faed6632a98fb1c25cb7a897b7b7e
     home: http://phpldapadmin.sourceforge.net
@@ -109,4 +129,4 @@ entries:
     urls:
     - phpLDAPadmin/phpLDAPadmin-0.1.0.tgz
     version: 0.1.0
-generated: "2019-07-03T09:25:27.436874933Z"
+generated: "2019-07-08T08:40:58.610522853Z"
