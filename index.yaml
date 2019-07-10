@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   fadi:
   - appVersion: 0.1.2
-    created: "2019-07-09T08:40:33.247039999Z"
+    created: 2019-07-10T13:33:12.601583452Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: fd1d5279c54ab2861420f8735042af541b494d20efd935b4ec0c7a11295f0346
@@ -22,7 +22,7 @@ entries:
     - fadi/fadi-0.1.2.tgz
     version: 0.1.2
   - appVersion: 0.1.1
-    created: "2019-07-09T08:40:33.240754048Z"
+    created: 2019-07-10T13:33:12.591367835Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: db7a4ea4f20c370b93e8ef5255728f6d21b2df9380fba901c0bbd7aa8654a6c5
@@ -42,7 +42,7 @@ entries:
     - fadi/fadi-0.1.1.tgz
     version: 0.1.1
   - appVersion: 0.1.0
-    created: "2019-07-09T08:40:33.232816785Z"
+    created: 2019-07-10T13:33:12.581156935Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 924aa2832e37c47d6ab16d5338bfcba24b0dd4736f0c476bd7bbf751522641ea
@@ -63,7 +63,7 @@ entries:
     version: 0.1.0
   nifi:
   - appVersion: 1.9.2
-    created: "2019-07-09T08:40:33.25072044Z"
+    created: 2019-07-10T13:33:12.606744272Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 2e56782833b438a43c1f16a521b1543488f5bdcc91e39a019c5c48b2cfc1b4ce
@@ -80,7 +80,7 @@ entries:
     - nifi/nifi-0.1.1.tgz
     version: 0.1.1
   - appVersion: 1.9.2
-    created: "2019-07-09T08:40:33.249220914Z"
+    created: 2019-07-10T13:33:12.604786347Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
@@ -97,8 +97,25 @@ entries:
     - nifi/nifi-0.1.0.tgz
     version: 0.1.0
   pgadmin:
+  - appVersion: 4.10.0
+    created: 2019-07-10T13:33:12.60964324Z
+    description: pgAdmin is a web based administration tool for the PostgreSQL database.
+    digest: 80bd820dc9c1851888f22cdb175b17ca52c0b2758c38101a929e1761589f1d15
+    home: https://www.pgadmin.org/
+    icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
+    keywords:
+    - pgadmin
+    - postgres
+    - database
+    - sql
+    maintainers:
+    - name: alexnuttinck
+    name: pgadmin
+    urls:
+    - pgadmin/pgadmin-0.1.3.tgz
+    version: 0.1.3
   - appVersion: 4.8.0
-    created: "2019-07-09T08:40:33.252309968Z"
+    created: 2019-07-10T13:33:12.608833959Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -115,7 +132,7 @@ entries:
     - pgadmin/pgadmin-0.1.2.tgz
     version: 0.1.2
   - appVersion: 4.8.0
-    created: "2019-07-09T08:40:33.251743761Z"
+    created: 2019-07-10T13:33:12.608139108Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -132,7 +149,7 @@ entries:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
   - appVersion: 4.7.0
-    created: "2019-07-09T08:40:33.251140613Z"
+    created: 2019-07-10T13:33:12.60734745Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -150,7 +167,7 @@ entries:
     version: 0.1.0
   phpLDAPadmin:
   - appVersion: 0.7.1
-    created: "2019-07-09T08:40:33.252787251Z"
+    created: 2019-07-10T13:33:12.610216065Z
     description: Web-based LDAP browser to manage your LDAP server
     digest: 2efc2a4d25ec5f0d0a3fc6a2554cf8de037faed6632a98fb1c25cb7a897b7b7e
     home: http://phpldapadmin.sourceforge.net
@@ -166,4 +183,4 @@ entries:
     urls:
     - phpLDAPadmin/phpLDAPadmin-0.1.0.tgz
     version: 0.1.0
-generated: "2019-07-09T08:40:33.22554872Z"
+generated: 2019-07-10T13:33:12.573885201Z
