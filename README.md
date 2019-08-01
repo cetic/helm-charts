@@ -26,7 +26,7 @@ helm repo update
 * [phpLDAPadmin](https://github.com/cetic/helm-phpLDAPadmin)
 
   ```bash
-  helm install --name your-release cetic/phpLDAPadmin
+  helm install --name your-release cetic/phpldap-admin
   ```
 
 * [fadi](https://github.com/cetic/fadi)
