@@ -290,42 +290,6 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.0.tgz
     version: 0.1.0
-  phpLDAPadmin:
-  - appVersion: 0.7.1
-    created: 2019-08-07T11:01:12.121032637Z
-    description: Web-based LDAP browser to manage your LDAP server
-    digest: 2efc2a4d25ec5f0d0a3fc6a2554cf8de037faed6632a98fb1c25cb7a897b7b7e
-    home: http://phpldapadmin.sourceforge.net
-    icon: http://phpldapadmin.sourceforge.net/wiki/images/d/d4/Logo.jpg
-    keywords:
-    - phpldapadmin
-    - openldap
-    - userrights
-    maintainers:
-    - name: alexnuttinck
-    - name: AyadiAmen
-    name: phpLDAPadmin
-    urls:
-    - phpLDAPadmin/phpLDAPadmin-0.1.0.tgz
-    version: 0.1.0
-  phpldap-admin:
-  - appVersion: 0.7.1
-    created: 2019-08-07T11:01:12.121509056Z
-    description: Web-based LDAP browser to manage your LDAP server
-    digest: 01356bde145bf3849a1083158784b7a3534e80486d8c5ca9a8d2d09aea3095a6
-    home: http://phpldapadmin.sourceforge.net
-    icon: http://phpldapadmin.sourceforge.net/wiki/images/d/d4/Logo.jpg
-    keywords:
-    - phpldapadmin
-    - openldap
-    - userrights
-    maintainers:
-    - name: alexnuttinck
-    - name: AyadiAmen
-    name: phpldap-admin
-    urls:
-    - phpldap-admin/phpldap-admin-0.1.1.tgz
-    version: 0.1.1
   phpldapadmin:
   - appVersion: 0.7.1
     created: 2019-08-07T11:01:12.121991108Z
