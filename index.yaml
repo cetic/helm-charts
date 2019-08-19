@@ -1,8 +1,29 @@
 apiVersion: v1
 entries:
   fadi:
+  - appVersion: 0.1.7
+    created: "2019-08-19T12:52:56.376126699Z"
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
+    digest: 1f3dd93dc0b2038876dd98f3e648e4f03d22f25fbd92081b93e9fd73d8ed3dc6
+    home: https://github.com/cetic/fadi
+    icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
+    keywords:
+    - fadi
+    - bigdata
+    - nifi
+    - spark
+    - grafana
+    maintainers:
+    - name: alexnuttinck
+    - name: banzo
+    - name: AyadiAmen
+    name: fadi
+    urls:
+    - fadi/fadi-0.1.7.tgz
+    version: 0.1.7
   - appVersion: 0.1.6
-    created: 2019-08-19T10:06:39.183710626Z
+    created: "2019-08-19T12:52:56.362374129Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: d47de22aa5f4251d6afa080c72d4719e6bb313ba77d80a89319fb7690052cfde
@@ -22,7 +43,7 @@ entries:
     - fadi/fadi-0.1.6.tgz
     version: 0.1.6
   - appVersion: 0.1.5
-    created: 2019-08-19T10:06:39.176605807Z
+    created: "2019-08-19T12:52:56.354488428Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6ffde6de75191457984ef99f3de514111724a20752bcadd319f9bc1d77cfc8ba
@@ -42,7 +63,7 @@ entries:
     - fadi/fadi-0.1.5.tgz
     version: 0.1.5
   - appVersion: 0.1.4
-    created: 2019-08-19T10:06:39.168461817Z
+    created: "2019-08-19T12:52:56.346777483Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: ad349eab60f73cba18fc88fa9027a7146c360128c533e0bdfd117ad652952b99
@@ -62,7 +83,7 @@ entries:
     - fadi/fadi-0.1.4.tgz
     version: 0.1.4
   - appVersion: 0.1.3
-    created: 2019-08-19T10:06:39.161126925Z
+    created: "2019-08-19T12:52:56.339067444Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 118e660f1a4b46545c202fa17ed47c89cb4427054996be3809449d77bf489660
@@ -82,7 +103,7 @@ entries:
     - fadi/fadi-0.1.3.tgz
     version: 0.1.3
   - appVersion: 0.1.2
-    created: 2019-08-19T10:06:39.154698689Z
+    created: "2019-08-19T12:52:56.328446455Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: fd1d5279c54ab2861420f8735042af541b494d20efd935b4ec0c7a11295f0346
@@ -102,7 +123,7 @@ entries:
     - fadi/fadi-0.1.2.tgz
     version: 0.1.2
   - appVersion: 0.1.1
-    created: 2019-08-19T10:06:39.14632165Z
+    created: "2019-08-19T12:52:56.318040755Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: db7a4ea4f20c370b93e8ef5255728f6d21b2df9380fba901c0bbd7aa8654a6c5
@@ -122,7 +143,7 @@ entries:
     - fadi/fadi-0.1.1.tgz
     version: 0.1.1
   - appVersion: 0.1.0
-    created: 2019-08-19T10:06:39.138828276Z
+    created: "2019-08-19T12:52:56.308857771Z"
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 924aa2832e37c47d6ab16d5338bfcba24b0dd4736f0c476bd7bbf751522641ea
@@ -143,7 +164,7 @@ entries:
     version: 0.1.0
   nifi:
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.193545365Z
+    created: "2019-08-19T12:52:56.390411702Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 38420ea48e171cdfbe2d19d512f0e0efbb82efd5c0edd7ea567cce4cf6fcbebb
@@ -160,7 +181,7 @@ entries:
     - nifi/nifi-0.1.5.tgz
     version: 0.1.5
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.19201002Z
+    created: "2019-08-19T12:52:56.38773601Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 869997a35e819476b263a2d85bc8c5b8d1a9db54174660305dd00da40364fa6c
@@ -177,7 +198,7 @@ entries:
     - nifi/nifi-0.1.4.tgz
     version: 0.1.4
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.190512161Z
+    created: "2019-08-19T12:52:56.385356412Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: addd3d7b9fbd9d15948a2ead4ca63b7fb194f8ea137867420c90ee7dfeb20476
@@ -194,7 +215,7 @@ entries:
     - nifi/nifi-0.1.3.tgz
     version: 0.1.3
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.189041368Z
+    created: "2019-08-19T12:52:56.383088049Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 71db19ea9ff72619af5e5dbfff67b4742a8e97661896b6441b109a00eda366a7
@@ -211,7 +232,7 @@ entries:
     - nifi/nifi-0.1.2.tgz
     version: 0.1.2
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.187554918Z
+    created: "2019-08-19T12:52:56.38076368Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 2e56782833b438a43c1f16a521b1543488f5bdcc91e39a019c5c48b2cfc1b4ce
@@ -228,7 +249,7 @@ entries:
     - nifi/nifi-0.1.1.tgz
     version: 0.1.1
   - appVersion: 1.9.2
-    created: 2019-08-19T10:06:39.18608348Z
+    created: "2019-08-19T12:52:56.378503896Z"
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
@@ -246,7 +267,7 @@ entries:
     version: 0.1.0
   pgadmin:
   - appVersion: 4.11.0
-    created: 2019-08-19T10:06:39.198810869Z
+    created: "2019-08-19T12:52:56.396147831Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 56e845900aaf56964283958346fb4166c3a8c0219e808436b7a23499fc64c294
     home: https://www.pgadmin.org/
@@ -263,7 +284,7 @@ entries:
     - pgadmin/pgadmin-0.1.7.tgz
     version: 0.1.7
   - appVersion: 4.11.0
-    created: 2019-08-19T10:06:39.198207719Z
+    created: "2019-08-19T12:52:56.395472114Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 5be22030600194aee2e0294cae45efe481a1358ffce9724a86d30fe44b90fc4b
     home: https://www.pgadmin.org/
@@ -280,7 +301,7 @@ entries:
     - pgadmin/pgadmin-0.1.6.tgz
     version: 0.1.6
   - appVersion: 4.11.0
-    created: 2019-08-19T10:06:39.197576408Z
+    created: "2019-08-19T12:52:56.394879973Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: a14e66a216fdf8e87d342cc54eb4f086d1cb04c986c5516b2f04a06c213599b1
     home: https://www.pgadmin.org/
@@ -297,7 +318,7 @@ entries:
     - pgadmin/pgadmin-0.1.5.tgz
     version: 0.1.5
   - appVersion: 4.11.0
-    created: 2019-08-19T10:06:39.196331217Z
+    created: "2019-08-19T12:52:56.394295041Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 0a55079b43826296d0bd8f6a417d5f6a722af2bafb290cec887d2c6fa44dda0a
     home: https://www.pgadmin.org/
@@ -314,7 +335,7 @@ entries:
     - pgadmin/pgadmin-0.1.4.tgz
     version: 0.1.4
   - appVersion: 4.10.0
-    created: 2019-08-19T10:06:39.195720236Z
+    created: "2019-08-19T12:52:56.393664036Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 80bd820dc9c1851888f22cdb175b17ca52c0b2758c38101a929e1761589f1d15
     home: https://www.pgadmin.org/
@@ -331,7 +352,7 @@ entries:
     - pgadmin/pgadmin-0.1.3.tgz
     version: 0.1.3
   - appVersion: 4.8.0
-    created: 2019-08-19T10:06:39.19512463Z
+    created: "2019-08-19T12:52:56.393051418Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -348,7 +369,7 @@ entries:
     - pgadmin/pgadmin-0.1.2.tgz
     version: 0.1.2
   - appVersion: 4.8.0
-    created: 2019-08-19T10:06:39.194537663Z
+    created: "2019-08-19T12:52:56.392434671Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -365,7 +386,7 @@ entries:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
   - appVersion: 4.7.0
-    created: 2019-08-19T10:06:39.193928307Z
+    created: "2019-08-19T12:52:56.391096151Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -383,7 +404,7 @@ entries:
     version: 0.1.0
   phpldapadmin:
   - appVersion: 0.7.1
-    created: 2019-08-19T10:06:39.19927384Z
+    created: "2019-08-19T12:52:56.396658486Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: 843bae8d6aa7f8a6a539b6fb7dd1c239a6855a5e2ecbb83bbfcdab0ab1375b97
     home: http://phpldapadmin.sourceforge.net
@@ -399,4 +420,4 @@ entries:
     urls:
     - phpldapadmin/phpldapadmin-0.1.2.tgz
     version: 0.1.2
-generated: 2019-08-19T10:06:39.131614203Z
+generated: "2019-08-19T12:52:56.300236189Z"
