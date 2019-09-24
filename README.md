@@ -30,10 +30,28 @@ helm repo update
   helm install --name your-release cetic/phpldapadmin
   ```
 
-* [fadi](https://github.com/cetic/fadi)
+* [fadi](https://github.com/cetic/helm-fadi)
 
   ```bash
   helm install --name your-release cetic/fadi
+  ```
+
+* [postgresql](https://github.com/cetic/helm-postgresql)
+
+  ```bash
+  helm install --name your-release cetic/postgresql
+  ```
+  
+* [tsaas](https://github.com/cetic/helm-tsimulus-saas)
+
+  ```bash
+  helm install --name your-release cetic/tsaas
+  ```  
+  
+* [swaggerui](https://github.com/cetic/helm-swagger-ui)
+
+  ```bash
+  helm install --name your-release cetic/swaggerui
   ```
 
 ### License
