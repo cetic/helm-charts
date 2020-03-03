@@ -3,7 +3,7 @@ entries:
   adminer:
   - apiVersion: v2
     appVersion: 4.7.6
-    created: "2020-02-25T11:07:11.525669177Z"
+    created: "2020-03-03T14:13:46.017690793Z"
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -30,7 +30,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2020-02-25T11:07:11.524504656Z"
+    created: "2020-03-03T14:13:46.016916733Z"
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -55,7 +55,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2020-02-25T11:07:11.523252557Z"
+    created: "2020-03-03T14:13:46.016221934Z"
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -80,7 +80,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2020-02-25T11:07:11.521341313Z"
+    created: "2020-03-03T14:13:46.01498942Z"
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -106,7 +106,7 @@ entries:
   fadi:
   - apiVersion: v1
     appVersion: 0.1.21
-    created: "2020-02-25T11:07:11.953844142Z"
+    created: "2020-03-03T14:13:46.367185063Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -212,7 +212,7 @@ entries:
     version: 0.1.21
   - apiVersion: v1
     appVersion: 0.1.20
-    created: "2020-02-25T11:07:11.921376749Z"
+    created: "2020-03-03T14:13:46.338291514Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -318,7 +318,7 @@ entries:
     version: 0.1.20
   - apiVersion: v1
     appVersion: 0.1.19
-    created: "2020-02-25T11:07:11.874166896Z"
+    created: "2020-03-03T14:13:46.298782303Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -424,7 +424,7 @@ entries:
     version: 0.1.19
   - apiVersion: v1
     appVersion: 0.1.18
-    created: "2020-02-25T11:07:11.834963312Z"
+    created: "2020-03-03T14:13:46.268556577Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -534,7 +534,7 @@ entries:
     version: 0.1.18
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2020-02-25T11:07:11.801571866Z"
+    created: "2020-03-03T14:13:46.239282803Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -644,7 +644,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2020-02-25T11:07:11.771436035Z"
+    created: "2020-03-03T14:13:46.209957853Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -746,7 +746,7 @@ entries:
     version: 0.1.16
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2020-02-25T11:07:11.734467644Z"
+    created: "2020-03-03T14:13:46.18169707Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -848,7 +848,7 @@ entries:
     version: 0.1.15
   - apiVersion: v1
     appVersion: 0.1.14
-    created: "2020-02-25T11:07:11.700789845Z"
+    created: "2020-03-03T14:13:46.157749501Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -946,7 +946,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: "2020-02-25T11:07:11.665042099Z"
+    created: "2020-03-03T14:13:46.13436847Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1036,7 +1036,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: "2020-02-25T11:07:11.634887354Z"
+    created: "2020-03-03T14:13:46.109402906Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1126,7 +1126,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: "2020-02-25T11:07:11.607358611Z"
+    created: "2020-03-03T14:13:46.087438683Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1216,7 +1216,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: "2020-02-25T11:07:11.585271008Z"
+    created: "2020-03-03T14:13:46.066825692Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1294,7 +1294,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: "2020-02-25T11:07:12.132050853Z"
+    created: "2020-03-03T14:13:46.498233761Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1372,7 +1372,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: "2020-02-25T11:07:12.09750172Z"
+    created: "2020-03-03T14:13:46.472890222Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1439,7 +1439,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: "2020-02-25T11:07:12.058431422Z"
+    created: "2020-03-03T14:13:46.441810168Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1506,7 +1506,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: "2020-02-25T11:07:12.024107519Z"
+    created: "2020-03-03T14:13:46.418260232Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1568,7 +1568,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: "2020-02-25T11:07:12.003457172Z"
+    created: "2020-03-03T14:13:46.405533458Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1630,7 +1630,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2020-02-25T11:07:11.986214566Z"
+    created: "2020-03-03T14:13:46.392721876Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1684,7 +1684,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2020-02-25T11:07:11.968705546Z"
+    created: "2020-03-03T14:13:46.380634773Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1738,7 +1738,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2020-02-25T11:07:11.891467776Z"
+    created: "2020-03-03T14:13:46.310629612Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1792,7 +1792,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2020-02-25T11:07:11.554239796Z"
+    created: "2020-03-03T14:13:46.042825169Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1846,7 +1846,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-02-25T11:07:11.539672076Z"
+    created: "2020-03-03T14:13:46.030324392Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1901,7 +1901,7 @@ entries:
   microservice:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-02-25T11:07:12.133239559Z"
+    created: "2020-03-03T14:13:46.498972736Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: bd85f1e5a5f6d92f75c85d56fbe7b83279b0c03cce0a144291fced3b66318a60
     keywords:
@@ -1917,7 +1917,7 @@ entries:
   mlflow:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2020-02-25T11:07:12.133985402Z"
+    created: "2020-03-03T14:13:46.499431817Z"
     description: A Helm chart for MLFlow
     digest: 04bd3199918d2d8116f17520aec0e963910f0f3250e4dc4547aa8b6513bdc42c
     name: mlflow
@@ -1927,7 +1927,7 @@ entries:
   nifi:
   - apiVersion: v1
     appVersion: 1.11.0
-    created: "2020-02-25T11:07:12.197636407Z"
+    created: "2020-03-03T14:13:46.546767216Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1950,7 +1950,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: 1.10.0
-    created: "2020-02-25T11:07:12.193555085Z"
+    created: "2020-03-03T14:13:46.543980118Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1973,7 +1973,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 1.10.0
-    created: "2020-02-25T11:07:12.189124278Z"
+    created: "2020-03-03T14:13:46.541160166Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1996,7 +1996,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.18477498Z"
+    created: "2020-03-03T14:13:46.537768189Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2019,7 +2019,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.179842436Z"
+    created: "2020-03-03T14:13:46.53494622Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2042,7 +2042,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.175609898Z"
+    created: "2020-03-03T14:13:46.532191344Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2065,7 +2065,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.171466134Z"
+    created: "2020-03-03T14:13:46.528756371Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2088,7 +2088,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.166996474Z"
+    created: "2020-03-03T14:13:46.525764559Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2111,7 +2111,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.162306997Z"
+    created: "2020-03-03T14:13:46.521733016Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2134,7 +2134,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.157925527Z"
+    created: "2020-03-03T14:13:46.517407027Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2157,7 +2157,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.153737685Z"
+    created: "2020-03-03T14:13:46.51289043Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2180,7 +2180,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.149315393Z"
+    created: "2020-03-03T14:13:46.510233856Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2203,7 +2203,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.146536753Z"
+    created: "2020-03-03T14:13:46.507507606Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2226,7 +2226,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.143268731Z"
+    created: "2020-03-03T14:13:46.50480721Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2249,7 +2249,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2020-02-25T11:07:12.1391138Z"
+    created: "2020-03-03T14:13:46.502166016Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2273,7 +2273,7 @@ entries:
   pgadmin:
   - apiVersion: v1
     appVersion: 4.13.0
-    created: "2020-02-25T11:07:12.204925615Z"
+    created: "2020-03-03T14:13:46.550970554Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 2e7a5826f6e7345d2c80b71e37182fd16fe2a7688e7fb8f110d511ab2925c0bb
     home: https://www.pgadmin.org/
@@ -2291,7 +2291,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 4.13.0
-    created: "2020-02-25T11:07:12.203450881Z"
+    created: "2020-03-03T14:13:46.549867628Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c81f46c920fa516503a1ee82d8c7f56edfeaaaafc6b23d6ea82a8fd54a7e07cd
     home: https://www.pgadmin.org/
@@ -2309,7 +2309,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 4.12.0
-    created: "2020-02-25T11:07:12.201951451Z"
+    created: "2020-03-03T14:13:46.548981874Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: f57b78e286ab61588df22f34bb4250104b352c2bbc4b3dda59b581780dfa77c2
     home: https://www.pgadmin.org/
@@ -2327,7 +2327,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 4.12.0
-    created: "2020-02-25T11:07:12.211805973Z"
+    created: "2020-03-03T14:13:46.55762178Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c5cdd5b97f3b77afe604016bd283ab7cbef9b663f404a0c6cc24d2f2ed7c178d
     home: https://www.pgadmin.org/
@@ -2345,7 +2345,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2020-02-25T11:07:12.210870968Z"
+    created: "2020-03-03T14:13:46.556732672Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 12a8c60de7837e07c9a719a0b211986658918c8dae798c10240f5fbf99b5ea4b
     home: https://www.pgadmin.org/
@@ -2363,7 +2363,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2020-02-25T11:07:12.210061283Z"
+    created: "2020-03-03T14:13:46.55598092Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 56e845900aaf56964283958346fb4166c3a8c0219e808436b7a23499fc64c294
     home: https://www.pgadmin.org/
@@ -2381,7 +2381,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2020-02-25T11:07:12.209283171Z"
+    created: "2020-03-03T14:13:46.555224318Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 5be22030600194aee2e0294cae45efe481a1358ffce9724a86d30fe44b90fc4b
     home: https://www.pgadmin.org/
@@ -2399,7 +2399,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2020-02-25T11:07:12.208490272Z"
+    created: "2020-03-03T14:13:46.554457606Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: a14e66a216fdf8e87d342cc54eb4f086d1cb04c986c5516b2f04a06c213599b1
     home: https://www.pgadmin.org/
@@ -2417,7 +2417,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2020-02-25T11:07:12.207614683Z"
+    created: "2020-03-03T14:13:46.55365993Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 0a55079b43826296d0bd8f6a417d5f6a722af2bafb290cec887d2c6fa44dda0a
     home: https://www.pgadmin.org/
@@ -2435,7 +2435,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 4.10.0
-    created: "2020-02-25T11:07:12.206721543Z"
+    created: "2020-03-03T14:13:46.552773069Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 80bd820dc9c1851888f22cdb175b17ca52c0b2758c38101a929e1761589f1d15
     home: https://www.pgadmin.org/
@@ -2453,7 +2453,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 4.8.0
-    created: "2020-02-25T11:07:12.205921721Z"
+    created: "2020-03-03T14:13:46.551968334Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -2471,7 +2471,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 4.8.0
-    created: "2020-02-25T11:07:12.200444634Z"
+    created: "2020-03-03T14:13:46.548147328Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -2489,7 +2489,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 4.7.0
-    created: "2020-02-25T11:07:12.19870344Z"
+    created: "2020-03-03T14:13:46.547354111Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -2508,7 +2508,7 @@ entries:
   phpldapadmin:
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2020-02-25T11:07:12.213614439Z"
+    created: "2020-03-03T14:13:46.558896539Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: e06a17b7ccc6e26391351b8ce39281a8d24ad8450878df665aba15df789f383b
     home: http://phpldapadmin.sourceforge.net
@@ -2526,7 +2526,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2020-02-25T11:07:12.212486637Z"
+    created: "2020-03-03T14:13:46.558269049Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: 843bae8d6aa7f8a6a539b6fb7dd1c239a6855a5e2ecbb83bbfcdab0ab1375b97
     home: http://phpldapadmin.sourceforge.net
@@ -2545,7 +2545,7 @@ entries:
   postgresql:
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2020-02-25T11:07:12.217407784Z"
+    created: "2020-03-03T14:13:46.563296136Z"
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: e80ef1a3bebe97ed4788c9b9e2db257ef289983e66c0147ee445df80433eca5b
@@ -2564,7 +2564,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2020-02-25T11:07:12.216447028Z"
+    created: "2020-03-03T14:13:46.562280758Z"
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 718f661adcb3e9a785c834dc99a03bab6036d48847c4d130c120ff4a681fc9d3
@@ -2583,7 +2583,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2020-02-25T11:07:12.215421134Z"
+    created: "2020-03-03T14:13:46.560641497Z"
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 6f12a8cd92193336fe82199a6be93b9f11f7d66fdabd7d089244177f113ed2df
@@ -2602,7 +2602,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2020-02-25T11:07:12.214516061Z"
+    created: "2020-03-03T14:13:46.55976887Z"
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 5aa5cab02efea06106cf082073bce303c5b809c6c0e8f7596144c5c9c19dd942
@@ -2622,7 +2622,7 @@ entries:
   swaggerui:
   - apiVersion: v1
     appVersion: 3.24.3
-    created: "2020-02-25T11:07:12.218756979Z"
+    created: "2020-03-03T14:13:46.56466831Z"
     description: Swagger is an open-source software framework backed by a large ecosystem
       of tools that helps developers design, build, document, and consume RESTful
       Web services.
@@ -2642,7 +2642,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 3.23.10
-    created: "2020-02-25T11:07:12.21808448Z"
+    created: "2020-03-03T14:13:46.563993967Z"
     description: Swagger is an open-source software framework backed by a large ecosystem
       of tools that helps developers design, build, document, and consume RESTful
       Web services.
@@ -2663,7 +2663,7 @@ entries:
   tsaas:
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2020-02-25T11:07:12.220993273Z"
+    created: "2020-03-03T14:13:46.566903329Z"
     description: A Helm chart for Tsimulus as a Service
     digest: cc70702018a562acf2cb9b01d3236204fbaab74d76e625d35b5c69b0fd28253d
     home: https://github.com/cetic/tsimulus-saas
@@ -2680,7 +2680,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2020-02-25T11:07:12.220437976Z"
+    created: "2020-03-03T14:13:46.566346999Z"
     description: A Helm chart for Tsimulus as a Service
     digest: 45ab975122948a936fdfd5ac9fbdd274f362bbaa4a69a4c407f2bf6392882125
     home: https://github.com/cetic/tsimulus-saas
@@ -2697,7 +2697,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2020-02-25T11:07:12.21986755Z"
+    created: "2020-03-03T14:13:46.565804243Z"
     description: A Helm chart for Tsimulus as a Service
     digest: b1d780dd7aa8abe2192df6d1cb2ac741dc45e3d408516608db2c238116a0b99e
     home: https://github.com/cetic/tsimulus-saas
@@ -2713,7 +2713,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-02-25T11:07:12.219305416Z"
+    created: "2020-03-03T14:13:46.565215263Z"
     description: A Helm chart for Tsimulus as a Service
     digest: abda7c57bc038f683d8a21c998df1da89f70f04bf6cb56a646bc7e99d6a6f670
     home: https://github.com/cetic/tsimulus-saas
@@ -2727,4 +2727,45 @@ entries:
     urls:
     - tsaas/tsaas-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-25T11:07:11.519991925Z"
+  tsorage:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2020-03-03T14:13:46.573831977Z"
+    dependencies:
+    - enabled: true
+      name: cassandra
+      repository: http://storage.googleapis.com/kubernetes-charts-incubator
+      version: 0.13.4
+    - enabled: true
+      name: kafka
+      repository: http://storage.googleapis.com/kubernetes-charts-incubator
+      version: 0.20.8
+    - condition: grafana.enabled
+      name: grafana
+      repository: https://kubernetes-charts.storage.googleapis.com/
+      version: 4.6.3
+    description: A platform for collecting, storing, and processing time series at
+      scale.
+    digest: 2992b6d0c66cfcdef0e0391f47fc732db797a3e8ed7c65b5ac9d5f94d43552d1
+    home: https://github.com/cetic/tsorage
+    keywords:
+    - time series
+    - storing
+    - data
+    - database
+    maintainers:
+    - email: mathieu.goeminne@cetic.be
+      name: mgoeminne
+      url: https://github.com/mgoeminne
+    - email: nico.salamone@cetic.be
+      name: nico-salamone
+      url: https://github.com/Nico-Salamone
+    name: tsorage
+    sources:
+    - https://github.com/cetic/tsorage
+    - https://github.com/cetic/tsorage-storage
+    type: application
+    urls:
+    - tsorage/tsorage-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-03T14:13:46.014059718Z"
