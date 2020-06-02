@@ -3,7 +3,7 @@ entries:
   adminer:
   - apiVersion: v2
     appVersion: 4.7.6
-    created: "2020-05-26T20:11:04.027292334Z"
+    created: 2020-06-02T14:45:37.405719077Z
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -28,9 +28,8 @@ entries:
     urls:
     - adminer/adminer-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 4.7.5
-    created: "2020-05-26T20:11:04.026577111Z"
+  - appVersion: 4.7.5
+    created: 2020-06-02T14:45:37.404681921Z
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -53,9 +52,8 @@ entries:
     urls:
     - adminer/adminer-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 4.7.5
-    created: "2020-05-26T20:11:04.025802295Z"
+  - appVersion: 4.7.5
+    created: 2020-06-02T14:45:37.403647352Z
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -78,9 +76,8 @@ entries:
     urls:
     - adminer/adminer-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 4.7.5
-    created: "2020-05-26T20:11:04.025084608Z"
+  - appVersion: 4.7.5
+    created: 2020-06-02T14:45:37.402657646Z
     description: Adminer is a full-featured database management tool written in PHP.
       Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
       target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
@@ -106,100 +103,7 @@ entries:
   fadi:
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2020-05-26T20:11:04.658014335Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.2
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: mlflow.enabled
-      name: mlflow
-      repository: https://cetic.github.io/helm-charts/
-      version: ~1.4.0
-    - condition: zabbix.enabled
-      name: zabbix
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: seldon-core-operator.enabled
-      name: seldon-core-operator
-      repository: https://storage.googleapis.com/seldon-charts/
-      version: ~1.0.2
+    created: 2020-06-02T14:45:37.78056677Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 86de816c2f2d9ed3b1fa0bc2b17c34c87dd685ae1246f6d59ce49238a5399b50
@@ -224,96 +128,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.621030559Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.2
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: mlflow.enabled
-      name: mlflow
-      repository: https://cetic.github.io/helm-charts/
-      version: ~1.4.0
-    - condition: zabbix.enabled
-      name: zabbix
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+    created: 2020-06-02T14:45:37.761239739Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 4f4cf12f0505d0de13b24e6b43bd6e0215eaffc07d235d60848148cffa5e958e
@@ -336,98 +151,8 @@ entries:
     urls:
     - fadi/fadi-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v1
-    appVersion: 0.1.22
-    created: "2020-05-26T20:11:04.44234593Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.2
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: mlflow.enabled
-      name: mlflow
-      repository: https://cetic.github.io/helm-charts/
-      version: ~1.4.0
-    - condition: zabbix.enabled
-      name: zabbix
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.22
+    created: 2020-06-02T14:45:37.648545536Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6a5ed54cea7c61fc5f8bf6ecfe02e84bde4c3e4d551950ac1d709da99c6be9dd
@@ -450,90 +175,8 @@ entries:
     urls:
     - fadi/fadi-0.1.22.tgz
     version: 0.1.22
-  - apiVersion: v1
-    appVersion: 0.1.21
-    created: "2020-05-26T20:11:04.40970729Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.2
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.21
+    created: 2020-06-02T14:45:37.627924003Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 442a3149ccd9fa80431f2b1632ea987eea412119596b82dca035a14ad521c3b0
@@ -556,90 +199,8 @@ entries:
     urls:
     - fadi/fadi-0.1.21.tgz
     version: 0.1.21
-  - apiVersion: v1
-    appVersion: 0.1.20
-    created: "2020-05-26T20:11:04.381639262Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.20
+    created: 2020-06-02T14:45:37.60632165Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: fab2182ae8c83e6d33fba93a7aac1766c6f8c77e4a972a049eb0eac5ec06f82a
@@ -662,90 +223,8 @@ entries:
     urls:
     - fadi/fadi-0.1.20.tgz
     version: 0.1.20
-  - apiVersion: v1
-    appVersion: 0.1.19
-    created: "2020-05-26T20:11:04.335320419Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.0.6
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.20.8
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^4.0.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^2.4.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.3
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.19
+    created: 2020-06-02T14:45:37.577363411Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: cba07ed000bc03397f38a6e1fcf080a219fb15268e02a86a31c36893cbee7d7d
@@ -768,94 +247,8 @@ entries:
     urls:
     - fadi/fadi-0.1.19.tgz
     version: 0.1.19
-  - apiVersion: v1
-    appVersion: 0.1.18
-    created: "2020-05-26T20:11:04.304679631Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.12
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.2
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.18
+    created: 2020-06-02T14:45:37.564103542Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: b65515728e4c645a367ffc0f7ce91de169f60c6e42c6d38acc44fb505e7204c0
@@ -878,94 +271,8 @@ entries:
     urls:
     - fadi/fadi-0.1.18.tgz
     version: 0.1.18
-  - apiVersion: v1
-    appVersion: 0.1.17
-    created: "2020-05-26T20:11:04.278377686Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.12
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.2
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
-    - condition: node-red.enabled
-      name: node-red
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.4.0
-    - condition: adminer.enabled
-      name: adminer
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.0
+  - appVersion: 0.1.17
+    created: 2020-06-02T14:45:37.548523716Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 8a9199d5376f0187b65f7bd28d9dfbb36e1b18b5e11ec3e15c0a8fe8d228daaa
@@ -988,86 +295,8 @@ entries:
     urls:
     - fadi/fadi-0.1.17.tgz
     version: 0.1.17
-  - apiVersion: v1
-    appVersion: 0.1.16
-    created: "2020-05-26T20:11:04.24153805Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~4.1.1
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.3.1
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.12
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.2
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.2.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
+  - appVersion: 0.1.16
+    created: 2020-06-02T14:45:37.534852644Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6b43760e15a476c8290c3ad652d738fd9dd3654cfb18fc8fc63b9433b1272f67
@@ -1090,86 +319,8 @@ entries:
     urls:
     - fadi/fadi-0.1.16.tgz
     version: 0.1.16
-  - apiVersion: v1
-    appVersion: 0.1.15
-    created: "2020-05-26T20:11:04.209560571Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.2.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.10
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.2
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.0
-    - condition: nginx_ldapauth_proxy.enabled
-      name: nginx-ldapauth-proxy
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^0.1.3
+  - appVersion: 0.1.15
+    created: 2020-06-02T14:45:37.520705791Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6ce639dd873c90b563cf1c52de828aa8781dc7c7b74efbbc5c2c8c48c292225f
@@ -1192,82 +343,8 @@ entries:
     urls:
     - fadi/fadi-0.1.15.tgz
     version: 0.1.15
-  - apiVersion: v1
-    appVersion: 0.1.14
-    created: "2020-05-26T20:11:04.179697803Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.2.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.10
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
-    - condition: tsaas.enabled
-      name: tsaas
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.2
-    - condition: swaggerui.enabled
-      name: swaggerui
-      repository: https://cetic.github.io/helm-charts/
-      version: ^0.1.0
+  - appVersion: 0.1.14
+    created: 2020-06-02T14:45:37.503868741Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: dce2033d42b4f4e0edeb9a60cead7f3382af7ad61f3a1d274462876351e6d5af
@@ -1290,74 +367,8 @@ entries:
     urls:
     - fadi/fadi-0.1.14.tgz
     version: 0.1.14
-  - apiVersion: v1
-    appVersion: 0.1.13
-    created: "2020-05-26T20:11:04.156333078Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.2.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.10
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.2.1
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
+  - appVersion: 0.1.13
+    created: 2020-06-02T14:45:37.485149784Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: b9532ebf0b7248634d3e0cbd3c31a15f7a6b7dc2b4423236a90630ab69e26267
@@ -1380,74 +391,8 @@ entries:
     urls:
     - fadi/fadi-0.1.13.tgz
     version: 0.1.13
-  - apiVersion: v1
-    appVersion: 0.1.12
-    created: "2020-05-26T20:11:04.126389735Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.2.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.10
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.19.0
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
+  - appVersion: 0.1.12
+    created: 2020-06-02T14:45:37.47164483Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6419a775f01b0b8c812ab9c92f8f273e910d93e17e56966f8ec2939b44816ab6
@@ -1470,74 +415,8 @@ entries:
     urls:
     - fadi/fadi-0.1.12.tgz
     version: 0.1.12
-  - apiVersion: v1
-    appVersion: 0.1.11
-    created: "2020-05-26T20:11:04.104266569Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.2.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.10
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.1.2
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.22.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^3.0.0
-    - condition: filebeat.enabled
-      name: filebeat
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.7.0
-    - condition: logstash.enabled
-      name: logstash
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ^1.6.0
+  - appVersion: 0.1.11
+    created: 2020-06-02T14:45:37.459907471Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 83b09cfbaccfab2dc9000616a47d57e86ecafddfae2bc7afe5d834d4df1d8ae1
@@ -1560,62 +439,8 @@ entries:
     urls:
     - fadi/fadi-0.1.11.tgz
     version: 0.1.11
-  - apiVersion: v1
-    appVersion: 0.1.10
-    created: "2020-05-26T20:11:04.083445314Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.8
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: elasticstack.enabled
-      name: elastic-stack
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.8.0
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.1.2
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
+  - appVersion: 0.1.10
+    created: 2020-06-02T14:45:37.444816564Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: f09def5715d8a44cd0c65c8b4bc0a9d46cbbf2e9819965c23035bb135a8a1456
@@ -1638,62 +463,8 @@ entries:
     urls:
     - fadi/fadi-0.1.10.tgz
     version: 0.1.10
-  - apiVersion: v1
-    appVersion: 0.1.9
-    created: "2020-05-26T20:11:04.593028674Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.8
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: elasticstack.enabled
-      name: elastic-stack
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.8.0
-    - condition: kafka.enabled
-      name: kafka
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.1.2
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com
-      version: ~0.13.2
+  - appVersion: 0.1.9
+    created: 2020-06-02T14:45:37.735499953Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 5fef02ed56bba77456c479fb4f31a3077ee63da205a6382e3daa41e78f553eb8
@@ -1716,54 +487,8 @@ entries:
     urls:
     - fadi/fadi-0.1.9.tgz
     version: 0.1.9
-  - apiVersion: v1
-    appVersion: 0.1.8
-    created: "2020-05-26T20:11:04.567270182Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.5
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: elasticstack.enabled
-      name: elastic-stack
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.8.0
+  - appVersion: 0.1.8
+    created: 2020-06-02T14:45:37.713510358Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 4f4694d0d5483505cfeef470e7658ad9a475b72ce37aac6e87ce1a0a9fea03ff
@@ -1783,54 +508,8 @@ entries:
     urls:
     - fadi/fadi-0.1.8.tgz
     version: 0.1.8
-  - apiVersion: v1
-    appVersion: 0.1.7
-    created: "2020-05-26T20:11:04.53146032Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.5
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
-    - condition: elasticstack.enabled
-      name: elastic-stack
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.8.0
+  - appVersion: 0.1.7
+    created: 2020-06-02T14:45:37.694999783Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 1f3dd93dc0b2038876dd98f3e648e4f03d22f25fbd92081b93e9fd73d8ed3dc6
@@ -1850,50 +529,8 @@ entries:
     urls:
     - fadi/fadi-0.1.7.tgz
     version: 0.1.7
-  - apiVersion: v1
-    appVersion: 0.1.6
-    created: "2020-05-26T20:11:04.508838312Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.5
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.6
+    created: 2020-06-02T14:45:37.681910407Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: d47de22aa5f4251d6afa080c72d4719e6bb313ba77d80a89319fb7690052cfde
@@ -1912,50 +549,8 @@ entries:
     urls:
     - fadi/fadi-0.1.6.tgz
     version: 0.1.6
-  - apiVersion: v1
-    appVersion: 0.1.5
-    created: "2020-05-26T20:11:04.489121688Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
-    - condition: openldap.enabled
-      name: openldap
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.0
-    - condition: phpldapadmin.enabled
-      name: phpldapadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.5
+    created: 2020-06-02T14:45:37.674249648Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 6ffde6de75191457984ef99f3de514111724a20752bcadd319f9bc1d77cfc8ba
@@ -1974,42 +569,8 @@ entries:
     urls:
     - fadi/fadi-0.1.5.tgz
     version: 0.1.5
-  - apiVersion: v1
-    appVersion: 0.1.4
-    created: "2020-05-26T20:11:04.472875718Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.6
+  - appVersion: 0.1.4
+    created: 2020-06-02T14:45:37.666007936Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: ad349eab60f73cba18fc88fa9027a7146c360128c533e0bdfd117ad652952b99
@@ -2028,42 +589,8 @@ entries:
     urls:
     - fadi/fadi-0.1.4.tgz
     version: 0.1.4
-  - apiVersion: v1
-    appVersion: 0.1.3
-    created: "2020-05-26T20:11:04.454923141Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.3
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.5
+  - appVersion: 0.1.3
+    created: 2020-06-02T14:45:37.65885756Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 118e660f1a4b46545c202fa17ed47c89cb4427054996be3809449d77bf489660
@@ -2082,42 +609,8 @@ entries:
     urls:
     - fadi/fadi-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 0.1.2
-    created: "2020-05-26T20:11:04.347963623Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.2
+    created: 2020-06-02T14:45:37.586662796Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: fd1d5279c54ab2861420f8735042af541b494d20efd935b4ec0c7a11295f0346
@@ -2136,42 +629,8 @@ entries:
     urls:
     - fadi/fadi-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 0.1.1
-    created: "2020-05-26T20:11:04.053521339Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.18
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.1
+    created: 2020-06-02T14:45:37.424677111Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: db7a4ea4f20c370b93e8ef5255728f6d21b2df9380fba901c0bbd7aa8654a6c5
@@ -2190,42 +649,8 @@ entries:
     urls:
     - fadi/fadi-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: "2020-05-26T20:11:04.040884788Z"
-    dependencies:
-    - condition: spark.enabled
-      name: spark
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.0.0
-    - condition: superset.enabled
-      name: superset
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~1.1.6
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~5.3.11
-    - condition: minio.enabled
-      name: minio
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~2.4.17
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~3.5.4
-    - condition: jupyterhub.enabled
-      name: jupyterhub
-      repository: https://jupyterhub.github.io/helm-chart/
-      version: ~0.8.0
-    - condition: nifi.enabled
-      name: nifi
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.0
-    - condition: pgadmin.enabled
-      name: pgadmin
-      repository: https://cetic.github.io/helm-charts/
-      version: ~0.1.2
+  - appVersion: 0.1.0
+    created: 2020-06-02T14:45:37.416563302Z
     description: FADI is a Cloud Native platform for Big Data based on mature open
       source tools.
     digest: 924aa2832e37c47d6ab16d5338bfcba24b0dd4736f0c476bd7bbf751522641ea
@@ -2245,9 +670,8 @@ entries:
     - fadi/fadi-0.1.0.tgz
     version: 0.1.0
   microservice:
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: "2020-05-26T20:11:04.658814563Z"
+  - appVersion: 0.1.0
+    created: 2020-06-02T14:45:37.781328367Z
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: bd85f1e5a5f6d92f75c85d56fbe7b83279b0c03cce0a144291fced3b66318a60
     keywords:
@@ -2263,7 +687,7 @@ entries:
   mlflow:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2020-05-26T20:11:04.659269599Z"
+    created: 2020-06-02T14:45:37.781812736Z
     description: A Helm chart for MLFlow
     digest: 04bd3199918d2d8116f17520aec0e963910f0f3250e4dc4547aa8b6513bdc42c
     name: mlflow
@@ -2273,12 +697,7 @@ entries:
   nifi:
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2020-05-26T20:11:04.731109778Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+    created: 2020-06-02T14:45:37.816376458Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 694217e6c14c5278695272572628ff952ca4b2209e091bae43a8a65595c015eb
@@ -2298,12 +717,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2020-05-26T20:11:04.728180319Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+    created: 2020-06-02T14:45:37.814596811Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: ddb04774ff9b1e785e711a023c78c52321e29c572504b390bcfda52f84961f05
@@ -2321,14 +735,8 @@ entries:
     urls:
     - nifi/nifi-0.4.0.tgz
     version: 0.4.0
-  - apiVersion: v1
-    appVersion: 1.11.0
-    created: "2020-05-26T20:11:04.725312064Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+  - appVersion: 1.11.0
+    created: 2020-06-02T14:45:37.812868044Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 567fea5d422f09d68fd129098f047786dfbe98e6a600dc874a17c84121e20cbf
@@ -2344,14 +752,8 @@ entries:
     urls:
     - nifi/nifi-0.3.4.tgz
     version: 0.3.4
-  - apiVersion: v1
-    appVersion: 1.11.0
-    created: "2020-05-26T20:11:04.721682926Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+  - appVersion: 1.11.0
+    created: 2020-06-02T14:45:37.810301481Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: a7d64b5f41a92c8c285636d4536969287f6dcaa5223d6a631f28f56b227846e7
@@ -2367,14 +769,8 @@ entries:
     urls:
     - nifi/nifi-0.3.3.tgz
     version: 0.3.3
-  - apiVersion: v1
-    appVersion: 1.11.0
-    created: "2020-05-26T20:11:04.718761745Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+  - appVersion: 1.11.0
+    created: 2020-06-02T14:45:37.808625566Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: f4e70ec3bcf1f0a3d063c91517eaed232a32874df40e4cc3cf02d7e2ef38127a
@@ -2390,14 +786,8 @@ entries:
     urls:
     - nifi/nifi-0.3.2.tgz
     version: 0.3.2
-  - apiVersion: v1
-    appVersion: 1.10.0
-    created: "2020-05-26T20:11:04.714737749Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+  - appVersion: 1.10.0
+    created: 2020-06-02T14:45:37.806884708Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 99a71acece93863430360e25b7ad725694707fa109810675b02653b3ad2cee62
@@ -2413,14 +803,8 @@ entries:
     urls:
     - nifi/nifi-0.3.1.tgz
     version: 0.3.1
-  - apiVersion: v1
-    appVersion: 1.10.0
-    created: "2020-05-26T20:11:04.710028804Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 2.1.1
+  - appVersion: 1.10.0
+    created: 2020-06-02T14:45:37.805126104Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b34f0a0ffaa93154760f1537356ca9e2042dc67dd9a5a531e696323a8d0541e0
@@ -2436,14 +820,8 @@ entries:
     urls:
     - nifi/nifi-0.3.0.tgz
     version: 0.3.0
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.704626234Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.803378934Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 9b866bf4d0fed1ccaf23e9733cfeda38a9a55aec4d96f25db0c9036f7775db0e
@@ -2459,14 +837,8 @@ entries:
     urls:
     - nifi/nifi-0.2.3.tgz
     version: 0.2.3
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.700141327Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.801735348Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 025d1b8410497ffcc6ebd6f132a1fb56fd9d891e32f345b8087dc31d2d56ce35
@@ -2482,14 +854,8 @@ entries:
     urls:
     - nifi/nifi-0.2.2.tgz
     version: 0.2.2
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.695638871Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.800072052Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 1946330b147b93835d8e1c98ddc21c667ef1825ce023b4cc955ad84ba9c4b723
@@ -2505,14 +871,8 @@ entries:
     urls:
     - nifi/nifi-0.2.1.tgz
     version: 0.2.1
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.690552086Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.797429665Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 9a81f4288f1409273c89236fc0d1cd0b48977c01d5d49006c83ea45366f71d23
@@ -2528,14 +888,8 @@ entries:
     urls:
     - nifi/nifi-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.68631682Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.795482653Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 728c7088818cf28e0688941ec06c4d7d3d77b4e824a1deb2cf846faf3816437f
@@ -2551,14 +905,8 @@ entries:
     urls:
     - nifi/nifi-0.1.7.tgz
     version: 0.1.7
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.682030287Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.793738489Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 97f980c4ce3b2642b84ab87795c4e1028c4ff78b10521be4928e439b4bdc236f
@@ -2574,14 +922,8 @@ entries:
     urls:
     - nifi/nifi-0.1.6.tgz
     version: 0.1.6
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.677755343Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.792075054Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 38420ea48e171cdfbe2d19d512f0e0efbb82efd5c0edd7ea567cce4cf6fcbebb
@@ -2597,14 +939,8 @@ entries:
     urls:
     - nifi/nifi-0.1.5.tgz
     version: 0.1.5
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.673646256Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.790443843Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 869997a35e819476b263a2d85bc8c5b8d1a9db54174660305dd00da40364fa6c
@@ -2620,14 +956,8 @@ entries:
     urls:
     - nifi/nifi-0.1.4.tgz
     version: 0.1.4
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.670963836Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.788877482Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: addd3d7b9fbd9d15948a2ead4ca63b7fb194f8ea137867420c90ee7dfeb20476
@@ -2643,14 +973,8 @@ entries:
     urls:
     - nifi/nifi-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.668239791Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.787106372Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 71db19ea9ff72619af5e5dbfff67b4742a8e97661896b6441b109a00eda366a7
@@ -2666,14 +990,8 @@ entries:
     urls:
     - nifi/nifi-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.665470604Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.785563196Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: 2e56782833b438a43c1f16a521b1543488f5bdcc91e39a019c5c48b2cfc1b4ce
@@ -2689,14 +1007,8 @@ entries:
     urls:
     - nifi/nifi-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 1.9.2
-    created: "2020-05-26T20:11:04.662000368Z"
-    dependencies:
-    - condition: zookeeper.enabled
-      name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.3.1
+  - appVersion: 1.9.2
+    created: 2020-06-02T14:45:37.783916949Z
     description: Apache NiFi is a software project from the Apache Software Foundation
       designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
@@ -2713,9 +1025,8 @@ entries:
     - nifi/nifi-0.1.0.tgz
     version: 0.1.0
   pgadmin:
-  - apiVersion: v1
-    appVersion: 4.13.0
-    created: "2020-05-26T20:11:04.735815702Z"
+  - appVersion: 4.13.0
+    created: 2020-06-02T14:45:37.819439753Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 2e7a5826f6e7345d2c80b71e37182fd16fe2a7688e7fb8f110d511ab2925c0bb
     home: https://www.pgadmin.org/
@@ -2731,9 +1042,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.12.tgz
     version: 0.1.12
-  - apiVersion: v1
-    appVersion: 4.13.0
-    created: "2020-05-26T20:11:04.73497572Z"
+  - appVersion: 4.13.0
+    created: 2020-06-02T14:45:37.818758777Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c81f46c920fa516503a1ee82d8c7f56edfeaaaafc6b23d6ea82a8fd54a7e07cd
     home: https://www.pgadmin.org/
@@ -2749,9 +1059,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.11.tgz
     version: 0.1.11
-  - apiVersion: v1
-    appVersion: 4.12.0
-    created: "2020-05-26T20:11:04.734036533Z"
+  - appVersion: 4.12.0
+    created: 2020-06-02T14:45:37.818077743Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: f57b78e286ab61588df22f34bb4250104b352c2bbc4b3dda59b581780dfa77c2
     home: https://www.pgadmin.org/
@@ -2767,9 +1076,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.10.tgz
     version: 0.1.10
-  - apiVersion: v1
-    appVersion: 4.12.0
-    created: "2020-05-26T20:11:04.742176052Z"
+  - appVersion: 4.12.0
+    created: 2020-06-02T14:45:37.824645612Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c5cdd5b97f3b77afe604016bd283ab7cbef9b663f404a0c6cc24d2f2ed7c178d
     home: https://www.pgadmin.org/
@@ -2785,9 +1093,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.9.tgz
     version: 0.1.9
-  - apiVersion: v1
-    appVersion: 4.11.0
-    created: "2020-05-26T20:11:04.74134938Z"
+  - appVersion: 4.11.0
+    created: 2020-06-02T14:45:37.823969386Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 12a8c60de7837e07c9a719a0b211986658918c8dae798c10240f5fbf99b5ea4b
     home: https://www.pgadmin.org/
@@ -2803,9 +1110,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.8.tgz
     version: 0.1.8
-  - apiVersion: v1
-    appVersion: 4.11.0
-    created: "2020-05-26T20:11:04.7405851Z"
+  - appVersion: 4.11.0
+    created: 2020-06-02T14:45:37.823300225Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 56e845900aaf56964283958346fb4166c3a8c0219e808436b7a23499fc64c294
     home: https://www.pgadmin.org/
@@ -2821,9 +1127,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.7.tgz
     version: 0.1.7
-  - apiVersion: v1
-    appVersion: 4.11.0
-    created: "2020-05-26T20:11:04.739829959Z"
+  - appVersion: 4.11.0
+    created: 2020-06-02T14:45:37.822673257Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 5be22030600194aee2e0294cae45efe481a1358ffce9724a86d30fe44b90fc4b
     home: https://www.pgadmin.org/
@@ -2839,9 +1144,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.6.tgz
     version: 0.1.6
-  - apiVersion: v1
-    appVersion: 4.11.0
-    created: "2020-05-26T20:11:04.739075552Z"
+  - appVersion: 4.11.0
+    created: 2020-06-02T14:45:37.82204039Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: a14e66a216fdf8e87d342cc54eb4f086d1cb04c986c5516b2f04a06c213599b1
     home: https://www.pgadmin.org/
@@ -2857,9 +1161,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.5.tgz
     version: 0.1.5
-  - apiVersion: v1
-    appVersion: 4.11.0
-    created: "2020-05-26T20:11:04.738224414Z"
+  - appVersion: 4.11.0
+    created: 2020-06-02T14:45:37.821408363Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 0a55079b43826296d0bd8f6a417d5f6a722af2bafb290cec887d2c6fa44dda0a
     home: https://www.pgadmin.org/
@@ -2875,9 +1178,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.4.tgz
     version: 0.1.4
-  - apiVersion: v1
-    appVersion: 4.10.0
-    created: "2020-05-26T20:11:04.737395225Z"
+  - appVersion: 4.10.0
+    created: 2020-06-02T14:45:37.820780009Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 80bd820dc9c1851888f22cdb175b17ca52c0b2758c38101a929e1761589f1d15
     home: https://www.pgadmin.org/
@@ -2893,9 +1195,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 4.8.0
-    created: "2020-05-26T20:11:04.736593751Z"
+  - appVersion: 4.8.0
+    created: 2020-06-02T14:45:37.820125475Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -2911,9 +1212,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 4.8.0
-    created: "2020-05-26T20:11:04.733172315Z"
+  - appVersion: 4.8.0
+    created: 2020-06-02T14:45:37.817418915Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -2929,9 +1229,8 @@ entries:
     urls:
     - pgadmin/pgadmin-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 4.7.0
-    created: "2020-05-26T20:11:04.731745209Z"
+  - appVersion: 4.7.0
+    created: 2020-06-02T14:45:37.816793779Z
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -2950,7 +1249,24 @@ entries:
   phpldapadmin:
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2020-05-26T20:11:04.744042889Z"
+    created: 2020-06-02T14:45:37.827318373Z
+    description: Web-based LDAP browser to manage your LDAP server
+    digest: d148cc6965ae8b43ee341be3e29d9d5592a9153a0dac61f47dc476a7f228f9fe
+    home: http://phpldapadmin.sourceforge.net
+    icon: http://phpldapadmin.sourceforge.net/wiki/images/d/d4/Logo.jpg
+    keywords:
+    - phpldapadmin
+    - openldap
+    - userrights
+    maintainers:
+    - name: alexnuttinck
+    - name: AyadiAmen
+    name: phpldapadmin
+    urls:
+    - phpldapadmin/phpldapadmin-0.1.4.tgz
+    version: 0.1.4
+  - appVersion: 0.7.1
+    created: 2020-06-02T14:45:37.826791354Z
     description: Web-based LDAP browser to manage your LDAP server
     digest: e06a17b7ccc6e26391351b8ce39281a8d24ad8450878df665aba15df789f383b
     home: http://phpldapadmin.sourceforge.net
@@ -2966,9 +1282,8 @@ entries:
     urls:
     - phpldapadmin/phpldapadmin-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 0.7.1
-    created: "2020-05-26T20:11:04.742829393Z"
+  - appVersion: 0.7.1
+    created: 2020-06-02T14:45:37.825739208Z
     description: Web-based LDAP browser to manage your LDAP server
     digest: 843bae8d6aa7f8a6a539b6fb7dd1c239a6855a5e2ecbb83bbfcdab0ab1375b97
     home: http://phpldapadmin.sourceforge.net
@@ -2985,9 +1300,8 @@ entries:
     - phpldapadmin/phpldapadmin-0.1.2.tgz
     version: 0.1.2
   postgresql:
-  - apiVersion: v1
-    appVersion: 11.5.0
-    created: "2020-05-26T20:11:04.749074248Z"
+  - appVersion: 11.5.0
+    created: 2020-06-02T14:45:37.831076242Z
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 43b66b632786413fbb04c62f7b40ff70e669989a9c154657399a954e15ee3700
@@ -3004,9 +1318,8 @@ entries:
     urls:
     - postgresql/postgresql-0.1.4.tgz
     version: 0.1.4
-  - apiVersion: v1
-    appVersion: 11.5.0
-    created: "2020-05-26T20:11:04.748106066Z"
+  - appVersion: 11.5.0
+    created: 2020-06-02T14:45:37.830245056Z
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: e80ef1a3bebe97ed4788c9b9e2db257ef289983e66c0147ee445df80433eca5b
@@ -3023,9 +1336,8 @@ entries:
     urls:
     - postgresql/postgresql-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 11.5.0
-    created: "2020-05-26T20:11:04.746969812Z"
+  - appVersion: 11.5.0
+    created: 2020-06-02T14:45:37.829518909Z
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 718f661adcb3e9a785c834dc99a03bab6036d48847c4d130c120ff4a681fc9d3
@@ -3042,9 +1354,8 @@ entries:
     urls:
     - postgresql/postgresql-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 11.5.0
-    created: "2020-05-26T20:11:04.745915216Z"
+  - appVersion: 11.5.0
+    created: 2020-06-02T14:45:37.828712164Z
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 6f12a8cd92193336fe82199a6be93b9f11f7d66fdabd7d089244177f113ed2df
@@ -3061,9 +1372,8 @@ entries:
     urls:
     - postgresql/postgresql-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 11.5.0
-    created: "2020-05-26T20:11:04.745002514Z"
+  - appVersion: 11.5.0
+    created: 2020-06-02T14:45:37.827972903Z
     description: PostgreSQL is an open-source object-relational database management
       system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 5aa5cab02efea06106cf082073bce303c5b809c6c0e8f7596144c5c9c19dd942
@@ -3081,9 +1391,8 @@ entries:
     - postgresql/postgresql-0.1.0.tgz
     version: 0.1.0
   swaggerui:
-  - apiVersion: v1
-    appVersion: 3.24.3
-    created: "2020-05-26T20:11:04.750521763Z"
+  - appVersion: 3.24.3
+    created: 2020-06-02T14:45:37.83228544Z
     description: Swagger is an open-source software framework backed by a large ecosystem
       of tools that helps developers design, build, document, and consume RESTful
       Web services.
@@ -3101,9 +1410,8 @@ entries:
     urls:
     - swaggerui/swaggerui-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v1
-    appVersion: 3.23.10
-    created: "2020-05-26T20:11:04.749765323Z"
+  - appVersion: 3.23.10
+    created: 2020-06-02T14:45:37.831654278Z
     description: Swagger is an open-source software framework backed by a large ecosystem
       of tools that helps developers design, build, document, and consume RESTful
       Web services.
@@ -3122,9 +1430,8 @@ entries:
     - swaggerui/swaggerui-0.1.0.tgz
     version: 0.1.0
   tsaas:
-  - apiVersion: v1
-    appVersion: 0.1.3
-    created: "2020-05-26T20:11:04.752945554Z"
+  - appVersion: 0.1.3
+    created: 2020-06-02T14:45:37.834234672Z
     description: A Helm chart for Tsimulus as a Service
     digest: cc70702018a562acf2cb9b01d3236204fbaab74d76e625d35b5c69b0fd28253d
     home: https://github.com/cetic/tsimulus-saas
@@ -3139,9 +1446,8 @@ entries:
     urls:
     - tsaas/tsaas-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v1
-    appVersion: 0.1.2
-    created: "2020-05-26T20:11:04.752366286Z"
+  - appVersion: 0.1.2
+    created: 2020-06-02T14:45:37.833754304Z
     description: A Helm chart for Tsimulus as a Service
     digest: 45ab975122948a936fdfd5ac9fbdd274f362bbaa4a69a4c407f2bf6392882125
     home: https://github.com/cetic/tsimulus-saas
@@ -3156,9 +1462,8 @@ entries:
     urls:
     - tsaas/tsaas-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v1
-    appVersion: 0.1.1
-    created: "2020-05-26T20:11:04.751741637Z"
+  - appVersion: 0.1.1
+    created: 2020-06-02T14:45:37.833272255Z
     description: A Helm chart for Tsimulus as a Service
     digest: b1d780dd7aa8abe2192df6d1cb2ac741dc45e3d408516608db2c238116a0b99e
     home: https://github.com/cetic/tsimulus-saas
@@ -3172,9 +1477,8 @@ entries:
     urls:
     - tsaas/tsaas-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: "2020-05-26T20:11:04.751073594Z"
+  - appVersion: 0.1.0
+    created: 2020-06-02T14:45:37.832730882Z
     description: A Helm chart for Tsimulus as a Service
     digest: abda7c57bc038f683d8a21c998df1da89f70f04bf6cb56a646bc7e99d6a6f670
     home: https://github.com/cetic/tsimulus-saas
@@ -3191,16 +1495,7 @@ entries:
   tsorage:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.842716534Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.883939699Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 3d042c9be38b146c37a0b4f629552ac68d3129b1a60d99ce295ab2ea9a17640a
@@ -3224,22 +1519,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.837018976Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.880963774Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: a53021ea5b27417e031625a55ec1af820fe02327d9fa806ff4d5e1f2c877ac88
@@ -3263,22 +1548,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.83194343Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.87794728Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: bc684237435c21813b1986ea0bd884690bdbb7c1ea2d65f7880806a031b162bf
@@ -3302,22 +1577,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.826717301Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.873954179Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 7a7c70cd34955abd52981b6ad42d3cb448bb4e4015b1c7864bb912bcffdd83fb
@@ -3341,22 +1606,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.81843407Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.87106693Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 269213d7facde9c7579b8ea5dd1f5d21ead08c423f07bcb127e102e8e3fb859c
@@ -3380,22 +1635,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.810840924Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.86814244Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 3d5d11cd3c91a301e8d749f1f16b6292f5fafdc99d8aa6a870afb22994048c23
@@ -3419,22 +1664,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.802021262Z"
-    dependencies:
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
+    created: 2020-06-02T14:45:37.865295801Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: e26f06cf20a3f8e53331b434c0a0daf7d956d7b2985c5c81dadc8ea0870d5224
@@ -3458,34 +1693,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.793892865Z"
-    dependencies:
-    - condition: mosquitto.enabled
-      name: mosquitto
-      repository: https://smizy.github.io/charts
-      version: 0.1.6
-    - condition: processor.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: ingestion.enabled, processor.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 4.6.3
-    - condition: datadog.enabled
-      name: datadog
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 2.3.0
+    created: 2020-06-02T14:45:37.860950683Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 9cd8a0bbb1af0bc975a5bcd23f6b92b0ea5d90a409a21f5c590584a43fb21788
@@ -3509,30 +1722,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-05-26T20:11:04.77863468Z"
-    dependencies:
-    - condition: mosquitto.enabled
-      name: mosquitto
-      repository: https://smizy.github.io/charts
-      version: 0.1.6
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: kafka.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 4.6.3
+    created: 2020-06-02T14:45:37.851371678Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 7367a729dd01f214ea681af6c23f9a9500d481e7f6d7a0ae9890c4de4cc8538d
@@ -3556,30 +1751,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2020-05-26T20:11:04.768986954Z"
-    dependencies:
-    - condition: mosquitto.enabled
-      name: mosquitto
-      repository: https://smizy.github.io/charts
-      version: 0.1.6
-    - condition: cassandra.enabled
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - condition: kafka.enabled
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 4.6.3
+    created: 2020-06-02T14:45:37.844964259Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: e34967db82b470d9ccad3790a334b9d945d11a20ccfaefe31792b874c6528982
@@ -3603,26 +1780,12 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2020-05-26T20:11:04.760079612Z"
-    dependencies:
-    - enabled: true
-      name: cassandra
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.13.4
-    - enabled: true
-      name: kafka
-      repository: http://storage.googleapis.com/kubernetes-charts-incubator
-      version: 0.20.8
-    - condition: grafana.enabled
-      name: grafana
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 4.6.3
+    created: 2020-06-02T14:45:37.83846947Z
     description: A platform for collecting, storing, and processing time series at
       scale.
     digest: 2992b6d0c66cfcdef0e0391f47fc732db797a3e8ed7c65b5ac9d5f94d43552d1
@@ -3643,19 +1806,13 @@ entries:
     sources:
     - https://github.com/cetic/tsorage
     - https://github.com/cetic/tsorage-storage
-    type: application
     urls:
     - tsorage/tsorage-0.1.0.tgz
     version: 0.1.0
   zabbix:
   - apiVersion: v2
     appVersion: 4.4.5
-    created: "2020-05-26T20:11:04.854415732Z"
-    dependencies:
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~8.3.0
+    created: 2020-06-02T14:45:37.889946766Z
     description: Zabbix is a mature and effortless enterprise-class open source monitoring
       solution for network monitoring and application monitoring of millions of metrics.
     digest: 6f794df31c0b738cf1174aa3721531d794a0a54a286342b1733f5992f0293f30
@@ -3678,12 +1835,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 4.4.5
-    created: "2020-05-26T20:11:04.851344162Z"
-    dependencies:
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~8.3.0
+    created: 2020-06-02T14:45:37.887894492Z
     description: Zabbix is a mature and effortless enterprise-class open source monitoring
       solution for network monitoring and application monitoring of millions of metrics.
     digest: 14249f968ce548121a784d13342b3182e3248a1b48c0fc78298b63a3e2351033
@@ -3706,12 +1858,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-05-26T20:11:04.846783578Z"
-    dependencies:
-    - condition: postgresql.enabled
-      name: postgresql
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: ~8.3.0
+    created: 2020-06-02T14:45:37.885929979Z
     description: Zabbix is a mature and effortless enterprise-class open source monitoring
       solution for network monitoring and application monitoring of millions of metrics.
     digest: 5c5d54c579e0bf2790379e46a1f54147e33ed8b88205ea5b670bbea7bea5e8b3
@@ -3732,4 +1879,4 @@ entries:
     urls:
     - zabbix/zabbix-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-26T20:11:04.023512583Z"
+generated: 2020-06-02T14:45:37.401513544Z
