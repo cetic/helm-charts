@@ -50,12 +50,6 @@ helm repo update
   helm install your-release-name cetic/tsaas
   ```  
   
-* [tsorage](https://github.com/cetic/helm-tsorage)
-
-  ```bash
-  helm install your-release-name cetic/tsorage
-  ```
-
 * [swaggerui](https://github.com/cetic/helm-swagger-ui)
 
   ```bash
