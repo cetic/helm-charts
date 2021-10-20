@@ -3,8 +3,11 @@ entries:
   adminer:
   - apiVersion: v2
     appVersion: 4.8.1
-    created: "2021-10-11T10:54:06.092915776Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.081116479Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 9c4c1195f1c1a1c8d56ca3862ad18fff4402897c504190849a9692c68a1f2b29
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -30,8 +33,11 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 4.7.7
-    created: "2021-10-11T10:54:06.092233057Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.080335551Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 2440f57d2720337245fec55c4d568c1d7a2dc08225bbc9f4b9c490130c14267b
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -57,8 +63,11 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 4.7.7
-    created: "2021-10-11T10:54:06.091539891Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.079531433Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 14587479c0997cdf430d98d50f51a796b87f0a5260cabb494e729bd7bd6560c6
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -81,8 +90,11 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 4.7.6
-    created: "2021-10-11T10:54:06.09091678Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.078840403Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 4cc7fcb41bd64540d829f12ddd018c64503c0bd6f40ab2507046a38cba6137ce
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -105,8 +117,11 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 4.7.6
-    created: "2021-10-11T10:54:06.090208805Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.078146256Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 69514fca0b60def9e07124d1ea5322f4866f9fdc3438f0943523f3428a5e66a6
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -129,8 +144,11 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2021-10-11T10:54:06.089536138Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.077462224Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 532b05d8c2a09b96c42ef8d432a0c863c556a0997dc66d4f698ceaa489613939
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -151,8 +169,11 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2021-10-11T10:54:06.088848097Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.076806059Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 73ec1b8917c9c22d514c61e9751d5e441f80ad775726fc52bb30927dae0b434d
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -173,8 +194,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 4.7.5
-    created: "2021-10-11T10:54:06.088179314Z"
-    description: Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
+    created: "2021-10-20T13:28:03.076113371Z"
+    description: Adminer is a full-featured database management tool written in PHP.
+      Conversely to phpMyAdmin, it consist of a single file ready to deploy to the
+      target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite,
+      MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB
     digest: 995bc13d68be72561a2cd51daa764afbf94a04ee5774bb264faf3004e43e845d
     home: https://www.adminer.org
     icon: https://raw.githubusercontent.com/Kong/docker-official-docs/master/adminer/logo.png
@@ -196,8 +220,9 @@ entries:
   drupal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-11T10:54:06.093548997Z"
-    description: Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
+    created: "2021-10-20T13:28:03.081784725Z"
+    description: Drupal is a free and open-source web content management framework
+      written in PHP and distributed under the GNU General Public License.
     digest: cf9e3aecdf200842a29bfa8bb8d539ef23de62f8e5fbcae723cbba5d93118007
     icon: https://upload.wikimedia.org/wikipedia/commons/9/96/Druplicon.large.png
     maintainers:
@@ -212,7 +237,7 @@ entries:
   fadi:
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2021-10-11T10:54:06.943898704Z"
+    created: "2021-10-20T13:28:04.77955914Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -306,7 +331,8 @@ entries:
       name: airflow
       repository: https://charts.bitnami.com/bitnami
       version: ~8.0.5
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 8bf356783efd14c27627068349e3a2aee917f51559f6dd4b3ad7f2b2e32640a0
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -329,7 +355,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.8
-    created: "2021-10-11T10:54:06.893298714Z"
+    created: "2021-10-20T13:28:04.675418235Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -423,7 +449,8 @@ entries:
       name: airflow
       repository: https://charts.bitnami.com/bitnami
       version: ~8.0.5
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: a6b7fdb08364c4058c495ac06f1ef7278acb3eca8bf8f09930f34168f89a8aed
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -446,7 +473,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2021-10-11T10:54:06.83573411Z"
+    created: "2021-10-20T13:28:04.573565954Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -536,7 +563,8 @@ entries:
       name: drupal
       repository: https://charts.bitnami.com/bitnami
       version: ~10.0.5
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 4e2d1afbe063f16e7412c953c6d902ad2276981bade151991b3641097d591de5
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -559,7 +587,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2021-10-11T10:54:06.778951575Z"
+    created: "2021-10-20T13:28:04.482715201Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -649,7 +677,8 @@ entries:
       name: drupal
       repository: https://charts.bitnami.com/bitnami
       version: ~10.0.5
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 46ed1cfb5be8e193a4a567b59dbe0dfcaade01d4a57c56a0194bf91ede45aad7
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -672,7 +701,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2021-10-11T10:54:06.726894249Z"
+    created: "2021-10-20T13:28:04.421084836Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -766,7 +795,8 @@ entries:
       name: seldon-core-operator
       repository: https://storage.googleapis.com/seldon-charts/
       version: ~1.0.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 91609572ef4c0fe51065b126603abac405e1d81052267b93c25878ad340857b7
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -789,7 +819,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2021-10-11T10:54:06.696011411Z"
+    created: "2021-10-20T13:28:04.359246343Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -883,7 +913,8 @@ entries:
       name: seldon-core-operator
       repository: https://storage.googleapis.com/seldon-charts/
       version: ~1.0.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: be2d8356a9f0f703a57f09e0c22597c4b9c88fdf3843fd88ed013d16a5c10376
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -906,7 +937,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-10-11T10:54:06.667591945Z"
+    created: "2021-10-20T13:28:04.275359081Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1000,7 +1031,8 @@ entries:
       name: seldon-core-operator
       repository: https://storage.googleapis.com/seldon-charts/
       version: ~1.0.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: d1cc5ea0b5b3ee90fa273179ee02b1e4043f04ca724d52292f5e22d9c5f7b358
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1023,7 +1055,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-10-11T10:54:06.6405629Z"
+    created: "2021-10-20T13:28:04.20169993Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1117,7 +1149,8 @@ entries:
       name: seldon-core-operator
       repository: https://storage.googleapis.com/seldon-charts/
       version: ~1.0.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 212a06d95423c2faf8f0aa04386df4133522968b8ab340ba97c5948ed8af28e8
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1140,7 +1173,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-10-11T10:54:06.61340236Z"
+    created: "2021-10-20T13:28:04.165757762Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1234,7 +1267,8 @@ entries:
       name: seldon-core-operator
       repository: https://storage.googleapis.com/seldon-charts/
       version: ~1.0.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 86de816c2f2d9ed3b1fa0bc2b17c34c87dd685ae1246f6d59ce49238a5399b50
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1257,7 +1291,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:06.585479512Z"
+    created: "2021-10-20T13:28:04.087838153Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1347,7 +1381,8 @@ entries:
       name: zabbix
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 4f4cf12f0505d0de13b24e6b43bd6e0215eaffc07d235d60848148cffa5e958e
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1370,7 +1405,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.22
-    created: "2021-10-11T10:54:06.424976312Z"
+    created: "2021-10-20T13:28:03.778672605Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1460,7 +1495,8 @@ entries:
       name: zabbix
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 6a5ed54cea7c61fc5f8bf6ecfe02e84bde4c3e4d551950ac1d709da99c6be9dd
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1483,7 +1519,7 @@ entries:
     version: 0.1.22
   - apiVersion: v1
     appVersion: 0.1.21
-    created: "2021-10-11T10:54:06.399641387Z"
+    created: "2021-10-20T13:28:03.740198411Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1565,7 +1601,8 @@ entries:
       name: adminer
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 442a3149ccd9fa80431f2b1632ea987eea412119596b82dca035a14ad521c3b0
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1588,7 +1625,7 @@ entries:
     version: 0.1.21
   - apiVersion: v1
     appVersion: 0.1.20
-    created: "2021-10-11T10:54:06.376415118Z"
+    created: "2021-10-20T13:28:03.673806953Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1670,7 +1707,8 @@ entries:
       name: adminer
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: fab2182ae8c83e6d33fba93a7aac1766c6f8c77e4a972a049eb0eac5ec06f82a
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1693,7 +1731,7 @@ entries:
     version: 0.1.20
   - apiVersion: v1
     appVersion: 0.1.19
-    created: "2021-10-11T10:54:06.341859655Z"
+    created: "2021-10-20T13:28:03.586928754Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1775,7 +1813,8 @@ entries:
       name: adminer
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: cba07ed000bc03397f38a6e1fcf080a219fb15268e02a86a31c36893cbee7d7d
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1798,7 +1837,7 @@ entries:
     version: 0.1.19
   - apiVersion: v1
     appVersion: 0.1.18
-    created: "2021-10-11T10:54:06.319285099Z"
+    created: "2021-10-20T13:28:03.562866143Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1884,7 +1923,8 @@ entries:
       name: adminer
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: b65515728e4c645a367ffc0f7ce91de169f60c6e42c6d38acc44fb505e7204c0
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -1907,7 +1947,7 @@ entries:
     version: 0.1.18
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2021-10-11T10:54:06.295387813Z"
+    created: "2021-10-20T13:28:03.490557632Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -1993,7 +2033,8 @@ entries:
       name: adminer
       repository: https://cetic.github.io/helm-charts/
       version: ^0.1.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 8a9199d5376f0187b65f7bd28d9dfbb36e1b18b5e11ec3e15c0a8fe8d228daaa
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2016,7 +2057,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2021-10-11T10:54:06.272577581Z"
+    created: "2021-10-20T13:28:03.463773331Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2094,7 +2135,8 @@ entries:
       name: nginx-ldapauth-proxy
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ^0.1.3
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 6b43760e15a476c8290c3ad652d738fd9dd3654cfb18fc8fc63b9433b1272f67
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2117,7 +2159,7 @@ entries:
     version: 0.1.16
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2021-10-11T10:54:06.241916912Z"
+    created: "2021-10-20T13:28:03.419257873Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2195,7 +2237,8 @@ entries:
       name: nginx-ldapauth-proxy
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ^0.1.3
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 6ce639dd873c90b563cf1c52de828aa8781dc7c7b74efbbc5c2c8c48c292225f
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2218,7 +2261,7 @@ entries:
     version: 0.1.15
   - apiVersion: v1
     appVersion: 0.1.14
-    created: "2021-10-11T10:54:06.220281188Z"
+    created: "2021-10-20T13:28:03.367322658Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2292,7 +2335,8 @@ entries:
       name: swaggerui
       repository: https://cetic.github.io/helm-charts/
       version: ^0.1.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: dce2033d42b4f4e0edeb9a60cead7f3382af7ad61f3a1d274462876351e6d5af
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2315,7 +2359,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: "2021-10-11T10:54:06.198612314Z"
+    created: "2021-10-20T13:28:03.320573209Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2381,7 +2425,8 @@ entries:
       name: logstash
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ^1.6.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: b9532ebf0b7248634d3e0cbd3c31a15f7a6b7dc2b4423236a90630ab69e26267
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2404,7 +2449,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: "2021-10-11T10:54:06.178053757Z"
+    created: "2021-10-20T13:28:03.279254046Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2470,7 +2515,8 @@ entries:
       name: logstash
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ^1.6.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 6419a775f01b0b8c812ab9c92f8f273e910d93e17e56966f8ec2939b44816ab6
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2493,7 +2539,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: "2021-10-11T10:54:06.158156894Z"
+    created: "2021-10-20T13:28:03.252866201Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2559,7 +2605,8 @@ entries:
       name: logstash
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ^1.6.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 83b09cfbaccfab2dc9000616a47d57e86ecafddfae2bc7afe5d834d4df1d8ae1
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2582,7 +2629,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: "2021-10-11T10:54:06.138919394Z"
+    created: "2021-10-20T13:28:03.185100937Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2636,7 +2683,8 @@ entries:
       name: cassandra
       repository: https://kubernetes-charts-incubator.storage.googleapis.com
       version: ~0.13.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: f09def5715d8a44cd0c65c8b4bc0a9d46cbbf2e9819965c23035bb135a8a1456
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2659,7 +2707,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: "2021-10-11T10:54:06.55241619Z"
+    created: "2021-10-20T13:28:04.042418989Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2713,7 +2761,8 @@ entries:
       name: cassandra
       repository: https://kubernetes-charts-incubator.storage.googleapis.com
       version: ~0.13.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 5fef02ed56bba77456c479fb4f31a3077ee63da205a6382e3daa41e78f553eb8
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2736,7 +2785,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: "2021-10-11T10:54:06.5256177Z"
+    created: "2021-10-20T13:28:03.979247281Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2782,7 +2831,8 @@ entries:
       name: elastic-stack
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~1.8.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 4f4694d0d5483505cfeef470e7658ad9a475b72ce37aac6e87ce1a0a9fea03ff
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2802,7 +2852,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: "2021-10-11T10:54:06.496936123Z"
+    created: "2021-10-20T13:28:03.949078173Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2848,7 +2898,8 @@ entries:
       name: elastic-stack
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~1.8.0
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 1f3dd93dc0b2038876dd98f3e648e4f03d22f25fbd92081b93e9fd73d8ed3dc6
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2868,7 +2919,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: "2021-10-11T10:54:06.475852417Z"
+    created: "2021-10-20T13:28:03.882135016Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2910,7 +2961,8 @@ entries:
       name: phpldapadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: d47de22aa5f4251d6afa080c72d4719e6bb313ba77d80a89319fb7690052cfde
     home: https://github.com/cetic/fadi
     icon: https://raw.githubusercontent.com/cetic/fadi/master/doc/images/logo.png
@@ -2929,7 +2981,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: "2021-10-11T10:54:06.458516092Z"
+    created: "2021-10-20T13:28:03.867491196Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -2971,7 +3023,8 @@ entries:
       name: phpldapadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 6ffde6de75191457984ef99f3de514111724a20752bcadd319f9bc1d77cfc8ba
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
@@ -2990,7 +3043,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2021-10-11T10:54:06.446514776Z"
+    created: "2021-10-20T13:28:03.849374103Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -3024,7 +3077,8 @@ entries:
       name: pgadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.6
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: ad349eab60f73cba18fc88fa9027a7146c360128c533e0bdfd117ad652952b99
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
@@ -3043,7 +3097,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2021-10-11T10:54:06.436125136Z"
+    created: "2021-10-20T13:28:03.817138727Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -3077,7 +3131,8 @@ entries:
       name: pgadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.5
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 118e660f1a4b46545c202fa17ed47c89cb4427054996be3809449d77bf489660
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
@@ -3096,7 +3151,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2021-10-11T10:54:06.352197525Z"
+    created: "2021-10-20T13:28:03.630578586Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -3130,7 +3185,8 @@ entries:
       name: pgadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: fd1d5279c54ab2861420f8735042af541b494d20efd935b4ec0c7a11295f0346
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
@@ -3149,7 +3205,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-10-11T10:54:06.116716597Z"
+    created: "2021-10-20T13:28:03.158076179Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -3183,7 +3239,8 @@ entries:
       name: pgadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: db7a4ea4f20c370b93e8ef5255728f6d21b2df9380fba901c0bbd7aa8654a6c5
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/images/logo.png
@@ -3202,7 +3259,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:06.105125394Z"
+    created: "2021-10-20T13:28:03.130865784Z"
     dependencies:
     - condition: spark.enabled
       name: spark
@@ -3236,7 +3293,8 @@ entries:
       name: pgadmin
       repository: https://cetic.github.io/helm-charts/
       version: ~0.1.2
-    description: FADI is a Cloud Native platform for Big Data based on mature open source tools.
+    description: FADI is a Cloud Native platform for Big Data based on mature open
+      source tools.
     digest: 924aa2832e37c47d6ab16d5338bfcba24b0dd4736f0c476bd7bbf751522641ea
     home: https://github.com/cetic/fadi
     icon: https://github.com/cetic/fadi/blob/master/doc/logo.png
@@ -3256,7 +3314,7 @@ entries:
   job:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-10-11T10:54:06.94571671Z"
+    created: "2021-10-20T13:28:04.781549987Z"
     dependencies:
     - name: common
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
@@ -3277,7 +3335,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:06.94482811Z"
+    created: "2021-10-20T13:28:04.78059936Z"
     dependencies:
     - name: common
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
@@ -3299,7 +3357,7 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-10-11T10:54:06.95158918Z"
+    created: "2021-10-20T13:28:04.786818178Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 2237246be3ff1109b49a0aeac3f73c1e8c9118c940f1755078ea6b28b3c19787
     keywords:
@@ -3316,7 +3374,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2021-10-11T10:54:06.950920887Z"
+    created: "2021-10-20T13:28:04.786139081Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: a72737bfc05d24be9069c07278fd2e4a1064cfbdef0322f91f1ebf0648bfb1bb
     keywords:
@@ -3333,7 +3391,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2021-10-11T10:54:06.950305934Z"
+    created: "2021-10-20T13:28:04.785553833Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 58a5a351c1c093edce136c0f1c4282b3aaaa0509fdb9a9d989d8d86b776a8338
     keywords:
@@ -3350,7 +3408,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-10-11T10:54:06.949696083Z"
+    created: "2021-10-20T13:28:04.784910307Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: ab017115a892afc7e7037db3f5e2e2ba11eb3484d8f0a356d9ee7382e4d0a3fd
     keywords:
@@ -3367,7 +3425,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-10-11T10:54:06.949071221Z"
+    created: "2021-10-20T13:28:04.784254129Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 449ada330bb20a0df310f5190b5cdc735e71e41e86095e7a2f515e2bf14891a3
     keywords:
@@ -3384,7 +3442,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-10-11T10:54:06.948446492Z"
+    created: "2021-10-20T13:28:04.7835719Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 090e8e083b98b02dc02fa55e11512d73fa60280561fa865e0c56d275caf7e8bb
     keywords:
@@ -3401,7 +3459,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:06.947823974Z"
+    created: "2021-10-20T13:28:04.782905478Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 239fbe965bb5ce9a0ac56759aea7f3a82d7812044e50ab536792bd6c7b89e985
     keywords:
@@ -3418,7 +3476,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:06.947180964Z"
+    created: "2021-10-20T13:28:04.782248618Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: bd85f1e5a5f6d92f75c85d56fbe7b83279b0c03cce0a144291fced3b66318a60
     keywords:
@@ -3434,7 +3492,7 @@ entries:
   mlflow:
   - apiVersion: v2
     appVersion: 1.5.1
-    created: "2021-10-11T10:54:06.959600749Z"
+    created: "2021-10-20T13:28:04.824507589Z"
     dependencies:
     - condition: db.default.enabled
       name: postgresql
@@ -3460,7 +3518,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2021-10-11T10:54:06.955650353Z"
+    created: "2021-10-20T13:28:04.817501569Z"
     dependencies:
     - condition: db.default.enabled
       name: postgresql
@@ -3486,7 +3544,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2021-10-11T10:54:06.952042154Z"
+    created: "2021-10-20T13:28:04.787271023Z"
     description: A Helm chart for MLFlow
     digest: 04bd3199918d2d8116f17520aec0e963910f0f3250e4dc4547aa8b6513bdc42c
     name: mlflow
@@ -3496,7 +3554,7 @@ entries:
   nifi:
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.15757051Z"
+    created: "2021-10-20T13:28:05.223383973Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3511,7 +3569,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: f8e3d6b1be496f80ba5742b84ccf2796016829a4cfb7b4482f1f2e5f56483072
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3538,7 +3597,7 @@ entries:
     version: 0.7.9
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.1507816Z"
+    created: "2021-10-20T13:28:05.186250625Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3553,7 +3612,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 4bbadc785a4a7eb71c23c9109da7142f63ce2644eee28e840e809ae276604fd5
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3577,7 +3637,7 @@ entries:
     version: 0.7.8
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.144490171Z"
+    created: "2021-10-20T13:28:05.180032183Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3592,7 +3652,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 0f917cb6706899021833d086b9bcfcab91f2c53da9ba5864071dee42bd5557c8
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3616,7 +3677,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.138657229Z"
+    created: "2021-10-20T13:28:05.173344206Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3631,7 +3692,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: c564ffd06ff679e2d0c5589c7ddd58809d7465b8f6798baab3e6fb0d81e0138c
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3655,7 +3717,7 @@ entries:
     version: 0.7.6
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.132235134Z"
+    created: "2021-10-20T13:28:05.166375035Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3670,7 +3732,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: a68e50863f62a632b34814157314107e7ef180f5b5d034562e3628a281e523f6
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3694,7 +3757,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.126477282Z"
+    created: "2021-10-20T13:28:05.157298937Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3709,7 +3772,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 43a03e9aaa9010a45143c12430d0efa60f23ccf02af3bb35ecf31981c4b4f2be
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3733,7 +3797,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.120309984Z"
+    created: "2021-10-20T13:28:05.144436399Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3748,7 +3812,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: debb069007d27618d4e55ba59e44c4e7554da1d187775ed0f88db96edb8a55a5
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3772,7 +3837,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.114639711Z"
+    created: "2021-10-20T13:28:05.092103976Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3787,7 +3852,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 864c551fb99416149169e8321e94e32b71c83545f2480530a33b82ffb9fa3e49
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3811,7 +3877,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.10739987Z"
+    created: "2021-10-20T13:28:05.084120822Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3826,7 +3892,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 6d0ddf59cafcc16f4a1d29d7ea3feda97ad21a93fc257dacb0d512eb652f6a71
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3850,7 +3917,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.098238706Z"
+    created: "2021-10-20T13:28:05.077582459Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3865,7 +3932,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 78cf8007e700021bd80182fb87286bc9dabb7969bfcfc84ef862e390b4ca2913
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3889,7 +3957,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.091166749Z"
+    created: "2021-10-20T13:28:05.07085753Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3904,7 +3972,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: c18911536f684c4644c845349ed24e0fbad882616e26552fedf22127b5611be6
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3928,7 +3997,7 @@ entries:
     version: 0.6.4
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.084534911Z"
+    created: "2021-10-20T13:28:05.064471856Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3943,7 +4012,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 6722cbf07b950a9fae6d1c5d314aa4d6a24544336e2f72204f60457f63cd8241
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3961,7 +4031,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.077025422Z"
+    created: "2021-10-20T13:28:05.056422925Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -3976,7 +4046,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: dcb31b7e5402047351d3927741ccb30f803c9fbf8715774f3d121caf39c67eb7
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -3994,7 +4065,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.06875656Z"
+    created: "2021-10-20T13:28:05.03734612Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4009,7 +4080,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: a888497fc50a771a920bce8defb6d1ffc290f7b693b5abf94a3a312912567917
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4027,7 +4099,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.06325628Z"
+    created: "2021-10-20T13:28:05.026567034Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4042,7 +4114,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 2bc5d6fad7e472776a9af02aa7d1c46fabba24e0da1696e2eb9bbeafeef15d00
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4060,7 +4133,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.056313852Z"
+    created: "2021-10-20T13:28:04.992983978Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4075,7 +4148,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: ae5e7656c59bd4b90a28af491bfb9146191dc29ba4bb9a081e3a168b79608306
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4093,7 +4167,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2021-10-11T10:54:07.048186618Z"
+    created: "2021-10-20T13:28:04.985375721Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4108,7 +4182,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.0
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 6201c3ee6ce441d9b821fcf7990e125f06931c1f00e131ca95e85b0320b4cdcc
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4126,7 +4201,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.041093224Z"
+    created: "2021-10-20T13:28:04.979370193Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4141,7 +4216,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.0
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 2f5a83a607f2f87cef7cbb1d56c3ef5a5006f6bddf736f370c6f89f67edc5845
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4159,7 +4235,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.036048826Z"
+    created: "2021-10-20T13:28:04.973905661Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4174,7 +4250,8 @@ entries:
       name: ca
       repository: ""
       version: 1.0.0
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 62779f44f41346e021afe8b12f60aad5173729ba846d087fb9484b0fe4664f6e
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4192,7 +4269,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.030219877Z"
+    created: "2021-10-20T13:28:04.967254029Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4203,7 +4280,8 @@ entries:
       name: nifi-registry
       repository: https://dysnix.github.io/charts/
       version: 0.1.0
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 9871350ec84e5b8ca5da2fc79f83db62052e03afec0e659d93e51c64501ab0ac
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4221,7 +4299,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.024900347Z"
+    created: "2021-10-20T13:28:04.961494982Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -4232,7 +4310,8 @@ entries:
       name: nifi-registry
       repository: https://dysnix.github.io/charts/
       version: 0.1.0
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 99164ac971e5f5fe2ab9a53306e072224300a46eb7b54c592815a59acf02923a
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4250,13 +4329,14 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.019856853Z"
+    created: "2021-10-20T13:28:04.95306015Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: ca7775777e2f30ec464f6c118bfa1e2e2689c27a07a7c19a9d3e5a16903087c2
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4274,13 +4354,14 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.016571581Z"
+    created: "2021-10-20T13:28:04.947420181Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: a2019a4befe5daa22dff0571ace5f80ad3cc8b98fd0b94cddde6555b3397e837
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4298,13 +4379,14 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.013868087Z"
+    created: "2021-10-20T13:28:04.941099154Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 4d71663941dbb96667416cd0dc01fa342e32ccccf457b8b3a36022f83ea41d46
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4322,13 +4404,14 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.01120541Z"
+    created: "2021-10-20T13:28:04.935613352Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 694217e6c14c5278695272572628ff952ca4b2209e091bae43a8a65595c015eb
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4346,13 +4429,14 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2021-10-11T10:54:07.008502218Z"
+    created: "2021-10-20T13:28:04.930268033Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: ddb04774ff9b1e785e711a023c78c52321e29c572504b390bcfda52f84961f05
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4370,13 +4454,14 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.11.0
-    created: "2021-10-11T10:54:07.004890024Z"
+    created: "2021-10-20T13:28:04.898022845Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 567fea5d422f09d68fd129098f047786dfbe98e6a600dc874a17c84121e20cbf
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4392,13 +4477,14 @@ entries:
     version: 0.3.4
   - apiVersion: v1
     appVersion: 1.11.0
-    created: "2021-10-11T10:54:07.00221642Z"
+    created: "2021-10-20T13:28:04.892632618Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: a7d64b5f41a92c8c285636d4536969287f6dcaa5223d6a631f28f56b227846e7
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4414,13 +4500,14 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: 1.11.0
-    created: "2021-10-11T10:54:06.999693693Z"
+    created: "2021-10-20T13:28:04.887922988Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: f4e70ec3bcf1f0a3d063c91517eaed232a32874df40e4cc3cf02d7e2ef38127a
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4436,13 +4523,14 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: 1.10.0
-    created: "2021-10-11T10:54:06.997114634Z"
+    created: "2021-10-20T13:28:04.885219275Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 99a71acece93863430360e25b7ad725694707fa109810675b02653b3ad2cee62
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4458,13 +4546,14 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 1.10.0
-    created: "2021-10-11T10:54:06.993866184Z"
+    created: "2021-10-20T13:28:04.881844043Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 2.1.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: b34f0a0ffaa93154760f1537356ca9e2042dc67dd9a5a531e696323a8d0541e0
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4480,13 +4569,14 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.991345474Z"
+    created: "2021-10-20T13:28:04.879059504Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 9b866bf4d0fed1ccaf23e9733cfeda38a9a55aec4d96f25db0c9036f7775db0e
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4502,13 +4592,14 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.988790071Z"
+    created: "2021-10-20T13:28:04.87630591Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 025d1b8410497ffcc6ebd6f132a1fb56fd9d891e32f345b8087dc31d2d56ce35
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4524,13 +4615,14 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.98625642Z"
+    created: "2021-10-20T13:28:04.873591317Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 1946330b147b93835d8e1c98ddc21c667ef1825ce023b4cc955ad84ba9c4b723
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4546,13 +4638,14 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.983701927Z"
+    created: "2021-10-20T13:28:04.870122806Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 9a81f4288f1409273c89236fc0d1cd0b48977c01d5d49006c83ea45366f71d23
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4568,13 +4661,14 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.980361346Z"
+    created: "2021-10-20T13:28:04.867362563Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 728c7088818cf28e0688941ec06c4d7d3d77b4e824a1deb2cf846faf3816437f
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4590,13 +4684,14 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.977823771Z"
+    created: "2021-10-20T13:28:04.864607616Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 97f980c4ce3b2642b84ab87795c4e1028c4ff78b10521be4928e439b4bdc236f
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4612,13 +4707,14 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.975301161Z"
+    created: "2021-10-20T13:28:04.859711418Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 38420ea48e171cdfbe2d19d512f0e0efbb82efd5c0edd7ea567cce4cf6fcbebb
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4634,13 +4730,14 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.972783066Z"
+    created: "2021-10-20T13:28:04.849878032Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 869997a35e819476b263a2d85bc8c5b8d1a9db54174660305dd00da40364fa6c
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4656,13 +4753,14 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.969672321Z"
+    created: "2021-10-20T13:28:04.844955275Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: addd3d7b9fbd9d15948a2ead4ca63b7fb194f8ea137867420c90ee7dfeb20476
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4678,13 +4776,14 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.967221832Z"
+    created: "2021-10-20T13:28:04.839960032Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 71db19ea9ff72619af5e5dbfff67b4742a8e97661896b6441b109a00eda366a7
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4700,13 +4799,14 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.964702788Z"
+    created: "2021-10-20T13:28:04.833948821Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: 2e56782833b438a43c1f16a521b1543488f5bdcc91e39a019c5c48b2cfc1b4ce
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4722,13 +4822,14 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-10-11T10:54:06.96213105Z"
+    created: "2021-10-20T13:28:04.829088606Z"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
       version: 1.3.1
-    description: Apache NiFi is a software project from the Apache Software Foundation designed to automate the flow of data between software systems.
+    description: Apache NiFi is a software project from the Apache Software Foundation
+      designed to automate the flow of data between software systems.
     digest: b89c9208ef30708083f66d3fb0f73d7d3beedfeff9240342722e65575872dff9
     home: https://nifi.apache.org/
     icon: https://svn.apache.org/repos/asf/nifi/site/trunk/images/niFi-logo-horizontal-scaled.png
@@ -4745,7 +4846,7 @@ entries:
   pgadmin:
   - apiVersion: v1
     appVersion: 4.13.0
-    created: "2021-10-11T10:54:07.161238038Z"
+    created: "2021-10-20T13:28:05.238252203Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 2e7a5826f6e7345d2c80b71e37182fd16fe2a7688e7fb8f110d511ab2925c0bb
     home: https://www.pgadmin.org/
@@ -4763,7 +4864,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 4.13.0
-    created: "2021-10-11T10:54:07.160448182Z"
+    created: "2021-10-20T13:28:05.236732737Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c81f46c920fa516503a1ee82d8c7f56edfeaaaafc6b23d6ea82a8fd54a7e07cd
     home: https://www.pgadmin.org/
@@ -4781,7 +4882,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 4.12.0
-    created: "2021-10-11T10:54:07.159681469Z"
+    created: "2021-10-20T13:28:05.22726827Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: f57b78e286ab61588df22f34bb4250104b352c2bbc4b3dda59b581780dfa77c2
     home: https://www.pgadmin.org/
@@ -4799,7 +4900,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 4.12.0
-    created: "2021-10-11T10:54:07.167080814Z"
+    created: "2021-10-20T13:28:05.249680737Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: c5cdd5b97f3b77afe604016bd283ab7cbef9b663f404a0c6cc24d2f2ed7c178d
     home: https://www.pgadmin.org/
@@ -4817,7 +4918,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2021-10-11T10:54:07.166316497Z"
+    created: "2021-10-20T13:28:05.248084526Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 12a8c60de7837e07c9a719a0b211986658918c8dae798c10240f5fbf99b5ea4b
     home: https://www.pgadmin.org/
@@ -4835,7 +4936,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2021-10-11T10:54:07.165629784Z"
+    created: "2021-10-20T13:28:05.246739Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 56e845900aaf56964283958346fb4166c3a8c0219e808436b7a23499fc64c294
     home: https://www.pgadmin.org/
@@ -4853,7 +4954,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2021-10-11T10:54:07.164905197Z"
+    created: "2021-10-20T13:28:05.245422744Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 5be22030600194aee2e0294cae45efe481a1358ffce9724a86d30fe44b90fc4b
     home: https://www.pgadmin.org/
@@ -4871,7 +4972,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2021-10-11T10:54:07.164185232Z"
+    created: "2021-10-20T13:28:05.244013706Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: a14e66a216fdf8e87d342cc54eb4f086d1cb04c986c5516b2f04a06c213599b1
     home: https://www.pgadmin.org/
@@ -4889,7 +4990,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 4.11.0
-    created: "2021-10-11T10:54:07.163465344Z"
+    created: "2021-10-20T13:28:05.242538415Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 0a55079b43826296d0bd8f6a417d5f6a722af2bafb290cec887d2c6fa44dda0a
     home: https://www.pgadmin.org/
@@ -4907,7 +5008,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 4.10.0
-    created: "2021-10-11T10:54:07.162709647Z"
+    created: "2021-10-20T13:28:05.241087578Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 80bd820dc9c1851888f22cdb175b17ca52c0b2758c38101a929e1761589f1d15
     home: https://www.pgadmin.org/
@@ -4925,7 +5026,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 4.8.0
-    created: "2021-10-11T10:54:07.161963164Z"
+    created: "2021-10-20T13:28:05.23960048Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 869e345e1524061fe73bbaa0677343a72195c8a26fde6786b203fd46a487e079
     home: https://www.pgadmin.org/
@@ -4943,7 +5044,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 4.8.0
-    created: "2021-10-11T10:54:07.158910645Z"
+    created: "2021-10-20T13:28:05.225797171Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: 7384c7dd890452fc7f6180ed6d688bc2d39b32ac0e8bda7bd508c6e2a27e86f9
     home: https://www.pgadmin.org/
@@ -4961,7 +5062,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 4.7.0
-    created: "2021-10-11T10:54:07.15809578Z"
+    created: "2021-10-20T13:28:05.224408846Z"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
     digest: cf138cc8930170aad841b3f33325ed4f20978c97b0219a494c5bb44fb7a1da29
     home: https://www.pgadmin.org/
@@ -4980,7 +5081,7 @@ entries:
   phpldapadmin:
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2021-10-11T10:54:07.168897427Z"
+    created: "2021-10-20T13:28:05.257528234Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: d148cc6965ae8b43ee341be3e29d9d5592a9153a0dac61f47dc476a7f228f9fe
     home: http://phpldapadmin.sourceforge.net
@@ -4998,7 +5099,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2021-10-11T10:54:07.168301636Z"
+    created: "2021-10-20T13:28:05.252051982Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: e06a17b7ccc6e26391351b8ce39281a8d24ad8450878df665aba15df789f383b
     home: http://phpldapadmin.sourceforge.net
@@ -5016,7 +5117,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.7.1
-    created: "2021-10-11T10:54:07.167708628Z"
+    created: "2021-10-20T13:28:05.250877287Z"
     description: Web-based LDAP browser to manage your LDAP server
     digest: 843bae8d6aa7f8a6a539b6fb7dd1c239a6855a5e2ecbb83bbfcdab0ab1375b97
     home: http://phpldapadmin.sourceforge.net
@@ -5035,8 +5136,9 @@ entries:
   postgresql:
   - apiVersion: v2
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.176678918Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.268817005Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 8e1c71c87780ed973dbe7b78d536600721a2ff7d1ad7b682dd2d0e5e19e016c5
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5053,8 +5155,9 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.175809274Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.267773226Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: cb6ae437428e50eb51863f72201abf7f1c0d9168aba80fbe5e19e89821851eaf
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5071,8 +5174,9 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.174929578Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.266803839Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: cde571f96755461d5be04803ecb1c4d52bb14da99118e1ff1c738608699208e5
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5089,8 +5193,9 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.174010849Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.265855861Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 43b66b632786413fbb04c62f7b40ff70e669989a9c154657399a954e15ee3700
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5107,8 +5212,9 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.173082372Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.264847257Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: e80ef1a3bebe97ed4788c9b9e2db257ef289983e66c0147ee445df80433eca5b
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5125,8 +5231,9 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.171464182Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.263368607Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 718f661adcb3e9a785c834dc99a03bab6036d48847c4d130c120ff4a681fc9d3
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5143,8 +5250,9 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.170534783Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.260935356Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 6f12a8cd92193336fe82199a6be93b9f11f7d66fdabd7d089244177f113ed2df
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5161,8 +5269,9 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 11.5.0
-    created: "2021-10-11T10:54:07.169726076Z"
-    description: PostgreSQL is an open-source object-relational database management system (ORDBMS) emphasizing extensibility and technical standards compliance.
+    created: "2021-10-20T13:28:05.259237622Z"
+    description: PostgreSQL is an open-source object-relational database management
+      system (ORDBMS) emphasizing extensibility and technical standards compliance.
     digest: 5aa5cab02efea06106cf082073bce303c5b809c6c0e8f7596144c5c9c19dd942
     home: https://www.postgresql.org/
     icon: https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg
@@ -5180,7 +5289,7 @@ entries:
   static:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-10-11T10:54:07.177430754Z"
+    created: "2021-10-20T13:28:05.269636303Z"
     description: A Helm chart to deploy k8s static files
     digest: 030e9c72fa8791a1ba263116dd428b0ec375b354c42bf1e1f033e64aa36459cb
     keywords:
@@ -5196,7 +5305,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:07.177048866Z"
+    created: "2021-10-20T13:28:05.26921997Z"
     description: A Helm chart to deploy k8s static files
     digest: 9bfbc839dc875e135d3769305c4200ac7df7d0f7f7082af9a6f423c4d4cb2141
     keywords:
@@ -5213,8 +5322,32 @@ entries:
   swaggerui:
   - apiVersion: v2
     appVersion: 3.24.3
-    created: "2021-10-11T10:54:07.18071048Z"
-    description: Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+    created: "2021-10-20T13:28:05.274543481Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
+    digest: b9c15ee6b814b7363b7098d824d3f7c594fa25a21db5826f1ec34382f7817ec5
+    home: https://swagger.io
+    icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
+    keywords:
+    - swagger
+    - ui
+    - RESTful
+    maintainers:
+    - email: rami.sellami@cetic.be
+      name: SellamiRami
+      url: https://github.com/SellamiRami
+    - name: alexnuttinck
+    name: swaggerui
+    urls:
+    - swaggerui/swaggerui-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 3.24.3
+    created: "2021-10-20T13:28:05.273406101Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
     digest: c9c91d459835479b1b5a3e039d666759c81a0e4629decb1bf49f58204e3e0101
     home: https://swagger.io
     icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
@@ -5233,8 +5366,10 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 3.24.3
-    created: "2021-10-11T10:54:07.180019021Z"
-    description: Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+    created: "2021-10-20T13:28:05.272453783Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
     digest: 74684913f308020fc004f5f996e5ba27aad144d44cf95e3f39bdd44a3fcba3d5
     home: https://swagger.io
     icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
@@ -5251,8 +5386,10 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 3.24.3
-    created: "2021-10-11T10:54:07.179311981Z"
-    description: Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+    created: "2021-10-20T13:28:05.271707819Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
     digest: 7f2a5a9bde419287858df5c9fc9d663310047ab1ccccdb64f9ef6f424ed41c2f
     home: https://swagger.io
     icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
@@ -5269,8 +5406,10 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 3.24.3
-    created: "2021-10-11T10:54:07.178657028Z"
-    description: Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+    created: "2021-10-20T13:28:05.271034097Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
     digest: e1618f01d764f79aaa1c9f4bf89e196240e9e793ecb76ffa2a7a3aa72cc05012
     home: https://swagger.io
     icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
@@ -5287,8 +5426,10 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 3.23.10
-    created: "2021-10-11T10:54:07.178036449Z"
-    description: Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+    created: "2021-10-20T13:28:05.270339588Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
     digest: b0b6e2e634728788f72ed7f5c847b2123c49d76b27b42d68f2474f6ca9ff3106
     home: https://swagger.io
     icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
@@ -5306,7 +5447,7 @@ entries:
   thingsboard:
   - apiVersion: v2
     appVersion: "2.2"
-    created: "2021-10-11T10:54:07.192728784Z"
+    created: "2021-10-20T13:28:05.289306726Z"
     dependencies:
     - condition: rabbitmq.enabled
       name: rabbitmq
@@ -5330,7 +5471,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: "2.2"
-    created: "2021-10-11T10:54:07.188940235Z"
+    created: "2021-10-20T13:28:05.283847838Z"
     dependencies:
     - condition: rabbitmq.enabled
       name: rabbitmq
@@ -5354,7 +5495,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "2.2"
-    created: "2021-10-11T10:54:07.185239977Z"
+    created: "2021-10-20T13:28:05.279546529Z"
     dependencies:
     - condition: rabbitmq.enabled
       name: rabbitmq
@@ -5379,7 +5520,7 @@ entries:
   tsaas:
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2021-10-11T10:54:07.195882894Z"
+    created: "2021-10-20T13:28:05.31327903Z"
     description: A Helm chart for Tsimulus as a Service
     digest: 64f0f0c43114da49821e715c10c6345f2bab21e7c92b2e4291b3d2a3b3383f8c
     home: https://github.com/cetic/tsimulus-saas
@@ -5397,7 +5538,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-10-11T10:54:07.195368595Z"
+    created: "2021-10-20T13:28:05.312255717Z"
     description: A Helm chart for Tsimulus as a Service
     digest: dfb88b23895e4f6b258a3f32185dcd8014521a290f0800d4606c91245455f379
     home: https://github.com/cetic/tsimulus-saas
@@ -5415,7 +5556,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2021-10-11T10:54:07.194860454Z"
+    created: "2021-10-20T13:28:05.311281818Z"
     description: A Helm chart for Tsimulus as a Service
     digest: cc70702018a562acf2cb9b01d3236204fbaab74d76e625d35b5c69b0fd28253d
     home: https://github.com/cetic/tsimulus-saas
@@ -5432,7 +5573,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2021-10-11T10:54:07.194288345Z"
+    created: "2021-10-20T13:28:05.292050382Z"
     description: A Helm chart for Tsimulus as a Service
     digest: 45ab975122948a936fdfd5ac9fbdd274f362bbaa4a69a4c407f2bf6392882125
     home: https://github.com/cetic/tsimulus-saas
@@ -5449,7 +5590,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-10-11T10:54:07.193769077Z"
+    created: "2021-10-20T13:28:05.291159105Z"
     description: A Helm chart for Tsimulus as a Service
     digest: b1d780dd7aa8abe2192df6d1cb2ac741dc45e3d408516608db2c238116a0b99e
     home: https://github.com/cetic/tsimulus-saas
@@ -5465,7 +5606,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:07.19325825Z"
+    created: "2021-10-20T13:28:05.290249428Z"
     description: A Helm chart for Tsimulus as a Service
     digest: abda7c57bc038f683d8a21c998df1da89f70f04bf6cb56a646bc7e99d6a6f670
     home: https://github.com/cetic/tsimulus-saas
@@ -5482,7 +5623,7 @@ entries:
   tsorage:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.266999607Z"
+    created: "2021-10-20T13:28:05.461297505Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5492,7 +5633,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 023ba022a0f3fade8ff5c5de19b86984a784f649de7beda90d485dbdb200941f
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5520,7 +5662,7 @@ entries:
     version: 0.4.11
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.262273502Z"
+    created: "2021-10-20T13:28:05.452730852Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5530,7 +5672,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 0d1e9e668ddf60f94268daa9ff6fc350072dd0bcfea5954c0d5a9cbab616beba
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5558,7 +5701,7 @@ entries:
     version: 0.4.10
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.313035085Z"
+    created: "2021-10-20T13:28:05.552782936Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5568,7 +5711,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: d8c4bc845a922ac6df0dfbbe660e4c9efe155860901675e7400196bf2c1715ed
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5596,7 +5740,7 @@ entries:
     version: 0.4.9
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.304853423Z"
+    created: "2021-10-20T13:28:05.540777528Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5606,7 +5750,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: b342d6c85087e4583a4e78f8f38ca7de43d2c151673b60544e9fff8d07994a93
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5634,7 +5779,7 @@ entries:
     version: 0.4.8
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.296903851Z"
+    created: "2021-10-20T13:28:05.531815547Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5644,7 +5789,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: a529ee738c139b3ba3ba440c0fe8702451f562d38580b3778b3ceb8bdf547723
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5672,7 +5818,7 @@ entries:
     version: 0.4.7
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.292151644Z"
+    created: "2021-10-20T13:28:05.489547666Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5682,7 +5828,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 8a100f1a0f693a04d3a493fd550d2a7d32c3f16957bffeef11d80841ba8aa6e4
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5710,7 +5857,7 @@ entries:
     version: 0.4.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-10-11T10:54:07.287305656Z"
+    created: "2021-10-20T13:28:05.483151033Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5720,7 +5867,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 5ef1895fd37e8bcbdb9773368a7a9b5feb576d2fb077efe9f4d9b7c0d13c5bd0
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5748,7 +5896,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.281709399Z"
+    created: "2021-10-20T13:28:05.478034159Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5758,7 +5906,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 4b65dd79429fea4e5b1df32c04129850ae992e2908788eb75adfa82b4b0f710a
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5786,7 +5935,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.276968844Z"
+    created: "2021-10-20T13:28:05.472336208Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5796,7 +5945,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 42ce3c28818f3256b43cca59916e0aac10932b1acaa3671b7bf81b64fc144eaa
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5824,7 +5974,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.272295266Z"
+    created: "2021-10-20T13:28:05.466556594Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5834,7 +5984,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: fa93827e221be6d4475aa33c88f9a55f5e139323e460e4a757a5df811ca4a42b
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5862,7 +6013,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.256816817Z"
+    created: "2021-10-20T13:28:05.44354431Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5872,7 +6023,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: a53021ea5b27417e031625a55ec1af820fe02327d9fa806ff4d5e1f2c877ac88
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5900,7 +6052,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.252291732Z"
+    created: "2021-10-20T13:28:05.434264579Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5910,7 +6062,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: bc684237435c21813b1986ea0bd884690bdbb7c1ea2d65f7880806a031b162bf
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5938,7 +6091,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.247754803Z"
+    created: "2021-10-20T13:28:05.394542963Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5948,7 +6101,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 7a7c70cd34955abd52981b6ad42d3cb448bb4e4015b1c7864bb912bcffdd83fb
     home: https://github.com/cetic/tsorage
     keywords:
@@ -5976,7 +6130,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.242476697Z"
+    created: "2021-10-20T13:28:05.387012042Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -5986,7 +6140,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 269213d7facde9c7579b8ea5dd1f5d21ead08c423f07bcb127e102e8e3fb859c
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6014,7 +6169,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.237931434Z"
+    created: "2021-10-20T13:28:05.382144637Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -6024,7 +6179,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 3d5d11cd3c91a301e8d749f1f16b6292f5fafdc99d8aa6a870afb22994048c23
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6052,7 +6208,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.233429791Z"
+    created: "2021-10-20T13:28:05.376705672Z"
     dependencies:
     - condition: processor.enabled
       name: cassandra
@@ -6062,7 +6218,8 @@ entries:
       name: kafka
       repository: http://storage.googleapis.com/kubernetes-charts-incubator
       version: 0.20.8
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: e26f06cf20a3f8e53331b434c0a0daf7d956d7b2985c5c81dadc8ea0870d5224
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6090,7 +6247,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.228707184Z"
+    created: "2021-10-20T13:28:05.371739615Z"
     dependencies:
     - condition: mosquitto.enabled
       name: mosquitto
@@ -6112,7 +6269,8 @@ entries:
       name: datadog
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 2.3.0
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 9cd8a0bbb1af0bc975a5bcd23f6b92b0ea5d90a409a21f5c590584a43fb21788
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6140,7 +6298,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-10-11T10:54:07.219230589Z"
+    created: "2021-10-20T13:28:05.36074317Z"
     dependencies:
     - condition: mosquitto.enabled
       name: mosquitto
@@ -6158,7 +6316,8 @@ entries:
       name: grafana
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 4.6.3
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 7367a729dd01f214ea681af6c23f9a9500d481e7f6d7a0ae9890c4de4cc8538d
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6186,7 +6345,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2021-10-11T10:54:07.211217253Z"
+    created: "2021-10-20T13:28:05.348083678Z"
     dependencies:
     - condition: mosquitto.enabled
       name: mosquitto
@@ -6204,7 +6363,8 @@ entries:
       name: grafana
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 4.6.3
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: e34967db82b470d9ccad3790a334b9d945d11a20ccfaefe31792b874c6528982
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6232,7 +6392,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2021-10-11T10:54:07.202790187Z"
+    created: "2021-10-20T13:28:05.331990263Z"
     dependencies:
     - enabled: true
       name: cassandra
@@ -6246,7 +6406,8 @@ entries:
       name: grafana
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 4.6.3
-    description: A platform for collecting, storing, and processing time series at scale.
+    description: A platform for collecting, storing, and processing time series at
+      scale.
     digest: 2992b6d0c66cfcdef0e0391f47fc732db797a3e8ed7c65b5ac9d5f94d43552d1
     home: https://github.com/cetic/tsorage
     keywords:
@@ -6272,13 +6433,14 @@ entries:
   zabbix:
   - apiVersion: v2
     appVersion: 5.4.5
-    created: "2021-10-11T10:54:07.36223736Z"
+    created: "2021-10-20T13:28:05.637895494Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~10.3.6
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: acc78542e31466a32150feb21a2c0f639dc2e60093e14c873e434dcc2fd4d4f3
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6302,13 +6464,14 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 5.4.5
-    created: "2021-10-11T10:54:07.358092754Z"
+    created: "2021-10-20T13:28:05.629652482Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~10.3.6
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 6fa2f2d58955eece8d3d79d525a7c10c2c9615e8ad7607edecd4ab4f4408bba9
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6332,13 +6495,14 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 5.4.5
-    created: "2021-10-11T10:54:07.353921335Z"
+    created: "2021-10-20T13:28:05.591566481Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~10.3.6
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: dacf68a1c08f3b16d30f2f76e176dc570fe700abd7516c466fcccfbed401641a
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6362,13 +6526,14 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 5.4.1
-    created: "2021-10-11T10:54:07.349276864Z"
+    created: "2021-10-20T13:28:05.584904665Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~10.3.6
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 7e192b31cadf3c6dc859179f19ae537ca67d3105bfdac5c3fcda32555172127e
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6392,13 +6557,14 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 5.2.0
-    created: "2021-10-11T10:54:07.345186989Z"
+    created: "2021-10-20T13:28:05.580408479Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~10.3.6
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 1e4ed9ffd7b6825d7dfb962136e1b2f22d655c41443011c63b5e10703a96beee
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6422,13 +6588,14 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 5.2.0
-    created: "2021-10-11T10:54:07.341084022Z"
+    created: "2021-10-20T13:28:05.575403294Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 8037315cfccd45b7b662e81e5a641ed4cf71020012bb16e362042e2cb47723d1
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6452,13 +6619,14 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 5.0.4
-    created: "2021-10-11T10:54:07.3366205Z"
+    created: "2021-10-20T13:28:05.572195414Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 8e1ef21115c7ca2f401104acf777d4e2650ec0133f249ef9afd2ea9fe64745c1
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6482,13 +6650,14 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 5.0.4
-    created: "2021-10-11T10:54:07.331759696Z"
+    created: "2021-10-20T13:28:05.569003902Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: fa4afc1faa2e09a3a26edf783b2ab7495c0703400f68daac4892b53aa801881a
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6512,13 +6681,14 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 4.4.5
-    created: "2021-10-11T10:54:07.326885506Z"
+    created: "2021-10-20T13:28:05.565142601Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 6f794df31c0b738cf1174aa3721531d794a0a54a286342b1733f5992f0293f30
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6539,13 +6709,14 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 4.4.5
-    created: "2021-10-11T10:54:07.322372665Z"
+    created: "2021-10-20T13:28:05.562094469Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 14249f968ce548121a784d13342b3182e3248a1b48c0fc78298b63a3e2351033
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6566,13 +6737,14 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-10-11T10:54:07.317493907Z"
+    created: "2021-10-20T13:28:05.558166588Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: ~8.3.0
-    description: Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
     digest: 5c5d54c579e0bf2790379e46a1f54147e33ed8b88205ea5b670bbea7bea5e8b3
     home: https://www.zabbix.com/
     icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
@@ -6591,4 +6763,4 @@ entries:
     urls:
     - zabbix/zabbix-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-11T10:54:06.087355394Z"
+generated: "2021-10-20T13:28:03.074876058Z"
