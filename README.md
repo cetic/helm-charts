@@ -13,13 +13,6 @@ helm repo update
 
 ### Helm Charts
 
-* [pgAdmin](https://github.com/cetic/helm-pgadmin)
-
-:warning: this helm chart is archived.
-
-  ```bash
-  helm install your-release-name cetic/pgadmin
-  ```
 * [apache nifi](https://github.com/cetic/helm-nifi)
 
   ```bash
@@ -85,6 +78,12 @@ helm repo update
   ```bash
   helm install your-release-name cetic/job
   ```
+* [pgAdmin](https://github.com/cetic/helm-pgadmin) :warning: this helm chart is archived.
+
+  ```bash
+  helm install your-release-name cetic/pgadmin
+  ```
+
 
 ### License
 
